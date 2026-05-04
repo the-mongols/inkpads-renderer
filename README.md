@@ -4,6 +4,20 @@ A monorepo of tools primarily used to render .wowsreplay files. Interacting with
 
 
 
+## Quick Start: Discord Bot
+
+If you just want to get the Discord bot up and running:
+
+1. **Run Setup**: Execute `setup_bot.bat` (Windows). This will install dependencies and create your `.env` file.
+2. **Configure**: Open `inkpads-bot/.env` and paste your Discord Bot Token.
+3. **Launch**: Run `python inkpads-bot/bot.py`.
+
+For more detailed instructions, see the [Bot README](inkpads-bot/README.md).
+
+## Demo Assets
+
+Recorded demonstrations and screenshots of the renderer in action can be found in the [`assets/demos/`](assets/demos/) directory.
+
 ## Licensing
 
 This project is licensed under the Apache License, Version 2.0.
