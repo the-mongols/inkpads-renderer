@@ -47,8 +47,8 @@ impl VulkanEncoder {
 
         let output_params = device
             .encoder_output_parameters_high_quality(RateControl::VariableBitrate {
-                average_bitrate: 20_000_000,
-                max_bitrate: 40_000_000,
+                average_bitrate: 5_000_000,
+                max_bitrate: 10_000_000,
                 virtual_buffer_size: std::time::Duration::from_secs(2),
             })
             .map_err(|e| report!(VideoError::EncoderInit(format!("Encoder params failed: {e:?}"))))?;
