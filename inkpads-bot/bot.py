@@ -98,7 +98,7 @@ async def render(
     logger.info(f"Render Session {session_id}: Green={replay.filename}, Red={'None' if not red_replay else red_replay.filename}")
     
     # Send initial status
-    status_msg = f"🚀 **Tactical Intake Started**\nFile: `{replay.filename}`"
+    status_msg = f"🚀 **Replay Rendering Started**\nFile: `{replay.filename}`"
     if red_replay:
         status_msg += f"\nSync File: `{red_replay.filename}`"
     status_msg += "\nProcessing..."
@@ -146,7 +146,7 @@ async def render(
             logger.info(f"Render Session {session_id}: Uploading result...")
             file = discord.File(output_path, filename=f"tactical_{replay.filename.replace('.wowsreplay', '.mp4')}")
             embed = discord.Embed(
-                title="✨ Tactical Render Complete",
+                title="✨ Render Output Complete",
                 description=f"Analysis of `{replay.filename}` is ready.",
                 color=discord.Color.blue()
             )

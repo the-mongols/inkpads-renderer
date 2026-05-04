@@ -1,10 +1,10 @@
 # InkPads Tactical Bot
 
-A Discord bot for generating high-fidelity tactical match reconstructions from `.wowsreplay` files.
+A Discord bot to receive `.wowsreplay` files from users, and return high-quality single or dual-render video outputs utilizing the renderer and analysis engine.
 
 ## Features
 - **`/render`**: Upload a replay to generate a tactical MP4 video.
-- **Dual-Replay Sync**: Upload a second replay from the opposing team to generate a unified "God View".
+- **Dual-Replay Sync**: Upload a second replay from the opposing team to generate a unified "Spectator View".
 - **Customizable**: Toggle ship movement trails and detection/weapon ranges.
 - **CPU/GPU Modes**: High-speed GPU encoding by default, with a CPU fallback for VPS environments.
 
@@ -13,7 +13,7 @@ A Discord bot for generating high-fidelity tactical match reconstructions from `
 ### 1. Requirements
 - **Python 3.8+**
 - **FFmpeg** (Must be in your system PATH)
-- **World of Warships** installation (for game assets)
+- **World of Warships** installation (for game assets) | Curtailed snippet of game assets are WiP
 
 ### 2. Configuration
 1. Copy `.env.example` to `.env`.
