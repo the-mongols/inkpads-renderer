@@ -142,7 +142,35 @@ async def render(
         if stderr: logger.info(f"STDERR: {stderr.decode()}")
 
         if process.returncode == 0:
-            # 4. Upload
+            # 4. Check Size and Compress if needed
+            file_size = output_path.stat().st_size
+            MAX_SIZE = 8 * 1024 * 1024 # 8MB safe limit
+            
+            if file_size > MAX_SIZE:
+                logger.info(f"Render Session {session_id}: File too large ({file_size/1024/1024:.1f}MB), compressing...")
+                compressed_path = TEMP_DIR / f"{session_id}_compressed.mp4"
+                # Use ffmpeg to compress to target size
+                # We target 7.5MB to be safe
+                bitrate = int((7.5 * 8192) / (1200 / 30)) # This is a rough estimate
+                # Simpler approach: use a higher CRF
+                compress_cmd = [
+                    "ffmpeg", "-y", "-i", str(output_path),
+                    "-vcodec", "libx264", "-crf", "28", "-preset", "fast",
+                    str(compressed_path)
+                ]
+                
+                c_process = await asyncio.create_subprocess_exec(
+                    *compress_cmd,
+                    stdout=asyncio.subprocess.PIPE,
+                    stderr=asyncio.subprocess.PIPE
+                )
+                await c_process.communicate()
+                
+                if compressed_path.exists():
+                    output_path = compressed_path
+                    logger.info(f"Render Session {session_id}: Compressed to {output_path.stat().st_size/1024/1024:.1f}MB")
+
+            # 5. Upload
             logger.info(f"Render Session {session_id}: Uploading result...")
             file = discord.File(output_path, filename=f"tactical_{replay.filename.replace('.wowsreplay', '.mp4')}")
             embed = discord.Embed(
