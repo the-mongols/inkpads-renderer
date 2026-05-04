@@ -16,7 +16,7 @@ For more detailed instructions, see the [Bot README](inkpads-bot/README.md).
 
 ## Demo Assets
 
-Recorded demonstrations and screenshots of the renderer in action can be found in the [`assets/demos/`](assets/demos/) directory.
+High-fidelity `.mov` recordings and screenshots demonstrating the Discord bot's intake and the renderer's output (including single and dual-view sync) can be found in the [`assets/demos/`](assets/demos/) directory.
 
 ## Licensing
 

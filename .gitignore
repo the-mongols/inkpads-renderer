@@ -6,6 +6,9 @@ temp/
 *.mp4
 *.wowsreplay
 
+# Allow demo assets
+!assets/demos/*
+
 # Data and Artifacts
 data/samples/
 scripts/dev/
