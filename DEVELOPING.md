@@ -95,17 +95,3 @@ Replay fixtures live in `tests/fixtures/replays/` and are committed to the repo.
 
 To add a new fixture, drop a `.wowsreplay` file into the directory and add a corresponding test in `crates/wows-replays/tests/replay_parsing.rs`.
 
-## CI
-
-The CI pipeline (`.github/workflows/rust.yml`) runs on every push and PR:
-
-- **Check**: `cargo check --workspace --all-features`
-- **Rustfmt**: `cargo fmt --all -- --check`
-- **Clippy**: `cargo clippy --workspace --all-features -- -D warnings`
-- **Test**: `cargo test --workspace`
-
-Release builds (`.github/workflows/build.yml`) run on GitHub release creation and produce:
-
-- **Windows**: Signed `.exe` + `.pdb` in a zip
-- **Linux**: Flatpak bundle
-- **macOS**: Universal binary (aarch64 + x86_64) in a `.dmg`
