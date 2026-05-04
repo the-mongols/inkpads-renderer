@@ -1,0 +1,7082 @@
+{
+    "4292851696": {
+        "name": "PASA002_Bogue_1942",
+        "species": "AirCarrier",
+        "tier": null,
+        "nation": "USA"
+    },
+    "4290754544": {
+        "name": "PASA004_Langley_1929",
+        "species": "AirCarrier",
+        "tier": null,
+        "nation": "USA"
+    },
+    "4288657392": {
+        "name": "PASA006_Independence_1945",
+        "species": "AirCarrier",
+        "tier": null,
+        "nation": "USA"
+    },
+    "4284463088": {
+        "name": "PASA010_Ranger_1944",
+        "species": "AirCarrier",
+        "tier": null,
+        "nation": "USA"
+    },
+    "4282365936": {
+        "name": "PASA012_Lexington_1944",
+        "species": "AirCarrier",
+        "tier": null,
+        "nation": "USA"
+    },
+    "4281317360": {
+        "name": "PASA013_Essex_1945",
+        "species": "AirCarrier",
+        "tier": null,
+        "nation": "USA"
+    },
+    "4279220208": {
+        "name": "PASA015_Midway_1945",
+        "species": "AirCarrier",
+        "tier": null,
+        "nation": "USA"
+    },
+    "4273977328": {
+        "name": "PASA020_Essex",
+        "species": "AirCarrier",
+        "tier": null,
+        "nation": "USA"
+    },
+    "4267685872": {
+        "name": "PASA026_Independence",
+        "species": "AirCarrier",
+        "tier": null,
+        "nation": "USA"
+    },
+    "4265588720": {
+        "name": "PASA028_Yorktown",
+        "species": "AirCarrier",
+        "tier": null,
+        "nation": "USA"
+    },
+    "4185896944": {
+        "name": "PASA104_Langley",
+        "species": "AirCarrier",
+        "tier": null,
+        "nation": "USA"
+    },
+    "4183799792": {
+        "name": "PASA106_Ranger",
+        "species": "AirCarrier",
+        "tier": null,
+        "nation": "USA"
+    },
+    "4181702640": {
+        "name": "PASA108_Lexington",
+        "species": "AirCarrier",
+        "tier": null,
+        "nation": "USA"
+    },
+    "4179605488": {
+        "name": "PASA110_Midway",
+        "species": "AirCarrier",
+        "tier": null,
+        "nation": "USA"
+    },
+    "4178556912": {
+        "name": "PASA111_United_States",
+        "species": "AirCarrier",
+        "tier": null,
+        "nation": "USA"
+    },
+    "3763320816": {
+        "name": "PASA507_Saipan_1946",
+        "species": "AirCarrier",
+        "tier": null,
+        "nation": "USA"
+    },
+    "3762272240": {
+        "name": "PASA508_Enterprise",
+        "species": "AirCarrier",
+        "tier": null,
+        "nation": "USA"
+    },
+    "3760175088": {
+        "name": "PASA510_Roosevelt",
+        "species": "AirCarrier",
+        "tier": null,
+        "nation": "USA"
+    },
+    "3751786480": {
+        "name": "PASA518_Enterprise",
+        "species": "AirCarrier",
+        "tier": null,
+        "nation": "USA"
+    },
+    "3741300720": {
+        "name": "PASA528_Saipan",
+        "species": "AirCarrier",
+        "tier": null,
+        "nation": "USA"
+    },
+    "3730814960": {
+        "name": "PASA538_Hornet",
+        "species": "AirCarrier",
+        "tier": null,
+        "nation": "USA"
+    },
+    "3667900400": {
+        "name": "PASA598_Black_Saipan",
+        "species": "AirCarrier",
+        "tier": null,
+        "nation": "USA"
+    },
+    "3353327600": {
+        "name": "PASA898_AZUR_Hornet",
+        "species": "AirCarrier",
+        "tier": null,
+        "nation": "USA"
+    },
+    "3342841840": {
+        "name": "PASA908_Concord_Bridge",
+        "species": "AirCarrier",
+        "tier": null,
+        "nation": "USA"
+    },
+    "3340744688": {
+        "name": "PASA910_Essex",
+        "species": "AirCarrier",
+        "tier": null,
+        "nation": "USA"
+    },
+    "3335501808": {
+        "name": "PASA915_TST_Midway",
+        "species": "AirCarrier",
+        "tier": null,
+        "nation": "USA"
+    },
+    "3330258928": {
+        "name": "PASA920_Pinata_Essex",
+        "species": "AirCarrier",
+        "tier": null,
+        "nation": "USA"
+    },
+    "4293867504": {
+        "name": "PASB001_Michigan_1916",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "USA"
+    },
+    "4290721776": {
+        "name": "PASB004_Arkansas_1912",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "USA"
+    },
+    "4288624624": {
+        "name": "PASB006_New_York_1934",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "USA"
+    },
+    "4286527472": {
+        "name": "PASB008_Colorado_1945",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "USA"
+    },
+    "4282333168": {
+        "name": "PASB012_North_Carolina_1945",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "USA"
+    },
+    "4281284592": {
+        "name": "PASB013_Arkansas_1912",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "USA"
+    },
+    "4277090288": {
+        "name": "PASB017_Montana_1945",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "USA"
+    },
+    "4276041712": {
+        "name": "PASB018_Iowa_1944",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "USA"
+    },
+    "4259264496": {
+        "name": "PASB034_New_Mexico_1941",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "USA"
+    },
+    "4181669872": {
+        "name": "PASB108_Kansas",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "USA"
+    },
+    "4180621296": {
+        "name": "PASB109_Minnesota",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "USA"
+    },
+    "4179572720": {
+        "name": "PASB110_Vermont",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "USA"
+    },
+    "4178524144": {
+        "name": "PASB111_Maine",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "USA"
+    },
+    "4076812272": {
+        "name": "PASB208_Nebraska",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "USA"
+    },
+    "4075763696": {
+        "name": "PASB209_Delaware",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "USA"
+    },
+    "4074715120": {
+        "name": "PASB210_Louisiana",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "USA"
+    },
+    "3765385200": {
+        "name": "PASB505_Oklahoma",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "USA"
+    },
+    "3764336624": {
+        "name": "PASB506_Arizona_1941",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "USA"
+    },
+    "3763288048": {
+        "name": "PASB507_West_Virginia",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "USA"
+    },
+    "3762239472": {
+        "name": "PASB508_Alabama",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "USA"
+    },
+    "3761190896": {
+        "name": "PASB509_Missouri",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "USA"
+    },
+    "3760142320": {
+        "name": "PASB510_Ohio",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "USA"
+    },
+    "3752802288": {
+        "name": "PASB517_Florida",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "USA"
+    },
+    "3751753712": {
+        "name": "PASB518_Massachusetts",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "USA"
+    },
+    "3750705136": {
+        "name": "PASB519_Kearsarge",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "USA"
+    },
+    "3742316528": {
+        "name": "PASB527_West_Virginia_1944",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "USA"
+    },
+    "3741267952": {
+        "name": "PASB528_Alabama_VL",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "USA"
+    },
+    "3730782192": {
+        "name": "PASB538_Constellation",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "USA"
+    },
+    "3729733616": {
+        "name": "PASB539_Illinois",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "USA"
+    },
+    "3667867632": {
+        "name": "PASB598_Black_Massachusetts",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "USA"
+    },
+    "3666819056": {
+        "name": "PASB599_Black_Kearsarge",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "USA"
+    },
+    "3555670000": {
+        "name": "PASB705_Texas_1944",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "USA"
+    },
+    "3553572848": {
+        "name": "PASB707_California",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "USA"
+    },
+    "3552524272": {
+        "name": "PASB708_Alabama",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "USA"
+    },
+    "3550427120": {
+        "name": "PASB710_Oregon",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "USA"
+    },
+    "3542038512": {
+        "name": "PASB718_Tennessee",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "USA"
+    },
+    "3540989936": {
+        "name": "PASB719_Indiana",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "USA"
+    },
+    "3539941360": {
+        "name": "PASB720_Rhode_Island",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "USA"
+    },
+    "3530504176": {
+        "name": "PASB729_Georgia",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "USA"
+    },
+    "3529455600": {
+        "name": "PASB730_Wisconsin",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "USA"
+    },
+    "3447666672": {
+        "name": "PASB808_Colorful_North_Carolina",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "USA"
+    },
+    "3445569520": {
+        "name": "PASB810_TST_MONTANA",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "USA"
+    },
+    "3437180912": {
+        "name": "PASB818_Black_Alabama",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "USA"
+    },
+    "3435083760": {
+        "name": "PASB820_BA_Montana",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "USA"
+    },
+    "3362732016": {
+        "name": "PASB889_Azur_Kearsarge",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "USA"
+    },
+    "3360634864": {
+        "name": "PASB891_Maine_PLUS",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "USA"
+    },
+    "3352246256": {
+        "name": "PASB899_Volunteer_State",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "USA"
+    },
+    "3342809072": {
+        "name": "PASB908_East_North_Carolina_1945",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "USA"
+    },
+    "3341760496": {
+        "name": "PASB909_Pirate_Delaware",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "USA"
+    },
+    "3340711920": {
+        "name": "PASB910_Connecticut",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "USA"
+    },
+    "3333371888": {
+        "name": "PASB917_Montana_1945",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "USA"
+    },
+    "3332323312": {
+        "name": "PASB918_Azur_Massachusetts",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "USA"
+    },
+    "3331274736": {
+        "name": "PASB919_Iowa_2",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "USA"
+    },
+    "3330226160": {
+        "name": "PASB920_Montana_2",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "USA"
+    },
+    "3319740400": {
+        "name": "PASB930_Black_Rhode_Island",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "USA"
+    },
+    "3256825840": {
+        "name": "PASB990_Utah",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "USA"
+    },
+    "3249485808": {
+        "name": "PASB997_Colorado_2",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "USA"
+    },
+    "3248437232": {
+        "name": "PASB998_North_Carolina_2",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "USA"
+    },
+    "4293834736": {
+        "name": "PASC001_Erie_1936",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "USA"
+    },
+    "4292786160": {
+        "name": "PASC002_Chester_1908",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "USA"
+    },
+    "4291737584": {
+        "name": "PASC003_Albany_1898",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "USA"
+    },
+    "4290689008": {
+        "name": "PASC004_St_Louis_1906",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "USA"
+    },
+    "4289640432": {
+        "name": "PASC005_Omaha_1923",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "USA"
+    },
+    "4288591856": {
+        "name": "PASC006_Atlanta_1942",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "USA"
+    },
+    "4287543280": {
+        "name": "PASC007_Cleveland_1945",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "USA"
+    },
+    "4283348976": {
+        "name": "PASC011_Jacksonville",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "USA"
+    },
+    "4282300400": {
+        "name": "PASC012_Pensacola_1944",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "USA"
+    },
+    "4280203248": {
+        "name": "PASC014_New_Orlean_1944",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "USA"
+    },
+    "4278106096": {
+        "name": "PASC016_Worcester_1948",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "USA"
+    },
+    "4277057520": {
+        "name": "PASC017_Baltimore_1944",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "USA"
+    },
+    "4274960368": {
+        "name": "PASC019_Burlington_1944",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "USA"
+    },
+    "4273911792": {
+        "name": "PASC020_Des_Moines_1948",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "USA"
+    },
+    "4269717488": {
+        "name": "PASC024_Phoenix_1917",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "USA"
+    },
+    "4248745968": {
+        "name": "PASC044_Marblehead_1924",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "USA"
+    },
+    "4247697392": {
+        "name": "PASC045_Marblehead_1924_Asus",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "USA"
+    },
+    "4183734256": {
+        "name": "PASC106_Pensacola_1944",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "USA"
+    },
+    "4182685680": {
+        "name": "PASC107_New_Orlean_1944",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "USA"
+    },
+    "4181637104": {
+        "name": "PASC108_Baltimore_1944",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "USA"
+    },
+    "4180588528": {
+        "name": "PASC109_Buffalo",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "USA"
+    },
+    "4178491376": {
+        "name": "PASC111_Annapolis",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "USA"
+    },
+    "4078876656": {
+        "name": "PASC206_Dallas",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "USA"
+    },
+    "4077828080": {
+        "name": "PASC207_Helena",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "USA"
+    },
+    "4076779504": {
+        "name": "PASC208_Cleveland",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "USA"
+    },
+    "4075730928": {
+        "name": "PASC209_Seattle",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "USA"
+    },
+    "4074682352": {
+        "name": "PASC210_Worcester",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "USA"
+    },
+    "3767449584": {
+        "name": "PASC503_Charleston",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "USA"
+    },
+    "3765352432": {
+        "name": "PASC505_Rattlehead",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "USA"
+    },
+    "3763255280": {
+        "name": "PASC507_Indianapolis_1945",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "USA"
+    },
+    "3762206704": {
+        "name": "PASC508_Wichita",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "USA"
+    },
+    "3761158128": {
+        "name": "PASC509_Vallejo",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "USA"
+    },
+    "3760109552": {
+        "name": "PASC510_Alaska",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "USA"
+    },
+    "3751720944": {
+        "name": "PASC518_Anchorage",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "USA"
+    },
+    "3750672368": {
+        "name": "PASC519_Tulsa",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "USA"
+    },
+    "3741235184": {
+        "name": "PASC528_Congress",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "USA"
+    },
+    "3730749424": {
+        "name": "PASC538_Rochester",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "USA"
+    },
+    "3720263664": {
+        "name": "PASC548_San_Diego",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "USA"
+    },
+    "3679369200": {
+        "name": "PASC587_Black_Atlanta",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "USA"
+    },
+    "3668883440": {
+        "name": "PASC597_Nueve_de_Julio_1951",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "USA"
+    },
+    "3666786288": {
+        "name": "PASC599_Black_Alaska",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "USA"
+    },
+    "3655251952": {
+        "name": "PASC610_Puerto_Rico",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "USA"
+    },
+    "3553540080": {
+        "name": "PASC707_Flint",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "USA"
+    },
+    "3552491504": {
+        "name": "PASC708_Bridgeport",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "USA"
+    },
+    "3550394352": {
+        "name": "PASC710_Salem",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "USA"
+    },
+    "3542005744": {
+        "name": "PASC718_AZUR_Montpelier",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "USA"
+    },
+    "3540957168": {
+        "name": "PASC719_Cambridge",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "USA"
+    },
+    "3539908592": {
+        "name": "PASC720_Hawaii",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "USA"
+    },
+    "3531519984": {
+        "name": "PASC728_Protector",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "USA"
+    },
+    "3530471408": {
+        "name": "PASC729_Fort_Worth",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "USA"
+    },
+    "3445536752": {
+        "name": "PASC810_Austin",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "USA"
+    },
+    "3360602096": {
+        "name": "PASC891_Jacksonville_PLUS",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "USA"
+    },
+    "3340679152": {
+        "name": "PASC910_Black_Puerto_Rico",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "USA"
+    },
+    "3330193392": {
+        "name": "PASC920_Gold_Hawaii",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "USA"
+    },
+    "3248404464": {
+        "name": "PASC998_Cleveland",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "USA"
+    },
+    "4292753392": {
+        "name": "PASD002_Sampson_1917",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "USA"
+    },
+    "4289607664": {
+        "name": "PASD005_Farragut_1944",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "USA"
+    },
+    "4288559088": {
+        "name": "PASD006_Mahan_1936",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "USA"
+    },
+    "4286461936": {
+        "name": "PASD008_Benson_1945",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "USA"
+    },
+    "4281219056": {
+        "name": "PASD013_Gearing_1945",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "USA"
+    },
+    "4280170480": {
+        "name": "PASD014_Leader_1919",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "USA"
+    },
+    "4274927600": {
+        "name": "PASD019_Clemson_1920",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "USA"
+    },
+    "4272830448": {
+        "name": "PASD021_Fletcher_1943",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "USA"
+    },
+    "4266538992": {
+        "name": "PASD027_Wickes_1918",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "USA"
+    },
+    "4264441840": {
+        "name": "PASD029_Sims_1941",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "USA"
+    },
+    "4256053232": {
+        "name": "PASD037_Hughes",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "USA"
+    },
+    "4255004656": {
+        "name": "PASD038_Osborne",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "USA"
+    },
+    "4253956080": {
+        "name": "PASD039_Christopher",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "USA"
+    },
+    "4252907504": {
+        "name": "PASD040_Burrows",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "USA"
+    },
+    "4178458608": {
+        "name": "PASD111_Joshua_Humphreys",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "USA"
+    },
+    "3768465392": {
+        "name": "PASD502_Smith",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "USA"
+    },
+    "3765319664": {
+        "name": "PASD505_Hill",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "USA"
+    },
+    "3764271088": {
+        "name": "PASD506_Monaghan",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "USA"
+    },
+    "3762173936": {
+        "name": "PASD508_Kidd",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "USA"
+    },
+    "3761125360": {
+        "name": "PASD509_Benham",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "USA"
+    },
+    "3760076784": {
+        "name": "PASD510_Somers",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "USA"
+    },
+    "3750639600": {
+        "name": "PASD519_Halford",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "USA"
+    },
+    "3740153840": {
+        "name": "PASD529_Black_Black",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "USA"
+    },
+    "3668850672": {
+        "name": "PASD597_Black_Sims",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "USA"
+    },
+    "3655219184": {
+        "name": "PASD610_Forrest_Sherman",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "USA"
+    },
+    "3556653040": {
+        "name": "PASD704_DD_214",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "USA"
+    },
+    "3551410160": {
+        "name": "PASD709_Black",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "USA"
+    },
+    "3550361584": {
+        "name": "PASD710_Laffey",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "USA"
+    },
+    "3540924400": {
+        "name": "PASD719_Johnston",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "USA"
+    },
+    "3539875824": {
+        "name": "PASD720_Hull",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "USA"
+    },
+    "3445503984": {
+        "name": "PASD810_TST_GEARING",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "USA"
+    },
+    "3436066800": {
+        "name": "PASD819_FBO_Johnston",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "USA"
+    },
+    "3360569328": {
+        "name": "PASD891_Joshua_Humphreys_PLUS",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "USA"
+    },
+    "3352180720": {
+        "name": "PASD899_Frank_Friday",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "USA"
+    },
+    "3337500656": {
+        "name": "PASD913_Gearing_1945",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "USA"
+    },
+    "4183209968": {
+        "name": "PASS106_Cachalot",
+        "species": "Submarine",
+        "tier": null,
+        "nation": "USA"
+    },
+    "4181112816": {
+        "name": "PASS108_Salmon",
+        "species": "Submarine",
+        "tier": null,
+        "nation": "USA"
+    },
+    "4179015664": {
+        "name": "PASS110_Balao",
+        "species": "Submarine",
+        "tier": null,
+        "nation": "USA"
+    },
+    "4078352368": {
+        "name": "PASS206_Cachalot",
+        "species": "Submarine",
+        "tier": null,
+        "nation": "USA"
+    },
+    "4076255216": {
+        "name": "PASS208_Salmon",
+        "species": "Submarine",
+        "tier": null,
+        "nation": "USA"
+    },
+    "4074158064": {
+        "name": "PASS210_Balao",
+        "species": "Submarine",
+        "tier": null,
+        "nation": "USA"
+    },
+    "3759585264": {
+        "name": "PASS510_Gato",
+        "species": "Submarine",
+        "tier": null,
+        "nation": "USA"
+    },
+    "3549870064": {
+        "name": "PASS710_Archerfish",
+        "species": "Submarine",
+        "tier": null,
+        "nation": "USA"
+    },
+    "3340154864": {
+        "name": "PASS910_Balao_2",
+        "species": "Submarine",
+        "tier": null,
+        "nation": "USA"
+    },
+    "4293146608": {
+        "name": "PASX001_Cimarron",
+        "species": "Auxiliary",
+        "tier": null,
+        "nation": "USA"
+    },
+    "4291049456": {
+        "name": "PASX003_Liberty",
+        "species": "Auxiliary",
+        "tier": null,
+        "nation": "USA"
+    },
+    "4290000880": {
+        "name": "PASX004_Liberty_modern",
+        "species": "Auxiliary",
+        "tier": null,
+        "nation": "USA"
+    },
+    "4288952304": {
+        "name": "PASX005_St_Clair",
+        "species": "Auxiliary",
+        "tier": null,
+        "nation": "USA"
+    },
+    "3346282480": {
+        "name": "PASX904_Cimarron",
+        "species": "Auxiliary",
+        "tier": null,
+        "nation": "USA"
+    },
+    "4183799760": {
+        "name": "PBSA106_Furious",
+        "species": "AirCarrier",
+        "tier": null,
+        "nation": "United_Kingdom"
+    },
+    "4181702608": {
+        "name": "PBSA108_Implacable",
+        "species": "AirCarrier",
+        "tier": null,
+        "nation": "United_Kingdom"
+    },
+    "4178556880": {
+        "name": "PBSA111_Eagle",
+        "species": "AirCarrier",
+        "tier": null,
+        "nation": "United_Kingdom"
+    },
+    "4081039312": {
+        "name": "PBSA204_Hermes",
+        "species": "AirCarrier",
+        "tier": null,
+        "nation": "United_Kingdom"
+    },
+    "4074747856": {
+        "name": "PBSA210_Audacious",
+        "species": "AirCarrier",
+        "tier": null,
+        "nation": "United_Kingdom"
+    },
+    "3762272208": {
+        "name": "PBSA508_Indomitable",
+        "species": "AirCarrier",
+        "tier": null,
+        "nation": "United_Kingdom"
+    },
+    "3760175056": {
+        "name": "PBSA510_Malta",
+        "species": "AirCarrier",
+        "tier": null,
+        "nation": "United_Kingdom"
+    },
+    "3751786448": {
+        "name": "PBSA518_Ark_Royal",
+        "species": "AirCarrier",
+        "tier": null,
+        "nation": "United_Kingdom"
+    },
+    "3741300688": {
+        "name": "PBSA528_Colossus",
+        "species": "AirCarrier",
+        "tier": null,
+        "nation": "United_Kingdom"
+    },
+    "3550459856": {
+        "name": "PBSA710_Ocean",
+        "species": "AirCarrier",
+        "tier": null,
+        "nation": "United_Kingdom"
+    },
+    "3542071248": {
+        "name": "PBSA718_Theseus",
+        "species": "AirCarrier",
+        "tier": null,
+        "nation": "United_Kingdom"
+    },
+    "3340744656": {
+        "name": "PBSA910_TST_Audacious",
+        "species": "AirCarrier",
+        "tier": null,
+        "nation": "United_Kingdom"
+    },
+    "4292818896": {
+        "name": "PBSB002_Warspite_1941",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "United_Kingdom"
+    },
+    "4186912720": {
+        "name": "PBSB103_Bellerophon",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "United_Kingdom"
+    },
+    "4185864144": {
+        "name": "PBSB104_Orion",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "United_Kingdom"
+    },
+    "4184815568": {
+        "name": "PBSB105_Iron_Duke",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "United_Kingdom"
+    },
+    "4183766992": {
+        "name": "PBSB106_Queen_Elizabeth",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "United_Kingdom"
+    },
+    "4182718416": {
+        "name": "PBSB107_King_George_V",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "United_Kingdom"
+    },
+    "4181669840": {
+        "name": "PBSB108_Monarch",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "United_Kingdom"
+    },
+    "4180621264": {
+        "name": "PBSB109_Lion",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "United_Kingdom"
+    },
+    "4179572688": {
+        "name": "PBSB110_Conqueror",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "United_Kingdom"
+    },
+    "4178524112": {
+        "name": "PBSB111_Devastation",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "United_Kingdom"
+    },
+    "4082055120": {
+        "name": "PBSB203_Indefatigable",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "United_Kingdom"
+    },
+    "4081006544": {
+        "name": "PBSB204_Queen_Mary",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "United_Kingdom"
+    },
+    "4079957968": {
+        "name": "PBSB205_Tiger",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "United_Kingdom"
+    },
+    "4078909392": {
+        "name": "PBSB206_Renown",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "United_Kingdom"
+    },
+    "4077860816": {
+        "name": "PBSB207_Rooke",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "United_Kingdom"
+    },
+    "4076812240": {
+        "name": "PBSB208_Hawke",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "United_Kingdom"
+    },
+    "4075763664": {
+        "name": "PBSB209_Duncan",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "United_Kingdom"
+    },
+    "4074715088": {
+        "name": "PBSB210_St_Vincent",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "United_Kingdom"
+    },
+    "3767482320": {
+        "name": "PBSB503_Dreadnought",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "United_Kingdom"
+    },
+    "3765385168": {
+        "name": "PBSB505_Agincourt",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "United_Kingdom"
+    },
+    "3763288016": {
+        "name": "PBSB507_Hood",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "United_Kingdom"
+    },
+    "3762239440": {
+        "name": "PBSB508_Vanguard",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "United_Kingdom"
+    },
+    "3761190864": {
+        "name": "PBSB509_Marlborough",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "United_Kingdom"
+    },
+    "3760142288": {
+        "name": "PBSB510_Thunderer",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "United_Kingdom"
+    },
+    "3752802256": {
+        "name": "PBSB517_Nelson",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "United_Kingdom"
+    },
+    "3743365072": {
+        "name": "PBSB526_Repulse",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "United_Kingdom"
+    },
+    "3742316496": {
+        "name": "PBSB527_Duke_of_York",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "United_Kingdom"
+    },
+    "3732879312": {
+        "name": "PBSB536_Black_Repulse",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "United_Kingdom"
+    },
+    "3731830736": {
+        "name": "PBSB537_Collingwood",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "United_Kingdom"
+    },
+    "3721344976": {
+        "name": "PBSB547_Renown_1944",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "United_Kingdom"
+    },
+    "3656333264": {
+        "name": "PBSB609_Scarlet_Thunder",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "United_Kingdom"
+    },
+    "3655284688": {
+        "name": "PBSB610_Incomparable",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "United_Kingdom"
+    },
+    "3552524240": {
+        "name": "PBSB708_Prince_of_Wales",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "United_Kingdom"
+    },
+    "3543087056": {
+        "name": "PBSB717_Rodney",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "United_Kingdom"
+    },
+    "3532601296": {
+        "name": "PBSB727_Duke_of_Bronte",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "United_Kingdom"
+    },
+    "3522115536": {
+        "name": "PBSB737_Royal_Sovereign",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "United_Kingdom"
+    },
+    "3511629776": {
+        "name": "PBSB747_STPatric_Duke_of_York",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "United_Kingdom"
+    },
+    "3445569488": {
+        "name": "PBSB810_Cumberland",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "United_Kingdom"
+    },
+    "3340711888": {
+        "name": "PBSB910_Conqueror",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "United_Kingdom"
+    },
+    "3248437200": {
+        "name": "PBSB998_St_Lawrence",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "United_Kingdom"
+    },
+    "4273911760": {
+        "name": "PBSC020_Monmouth",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "United_Kingdom"
+    },
+    "4188977104": {
+        "name": "PBSC101_Black_Swan",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "United_Kingdom"
+    },
+    "4187928528": {
+        "name": "PBSC102_Weymouth",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "United_Kingdom"
+    },
+    "4186879952": {
+        "name": "PBSC103_Caledon",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "United_Kingdom"
+    },
+    "4185831376": {
+        "name": "PBSC104_Danae",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "United_Kingdom"
+    },
+    "4184782800": {
+        "name": "PBSC105_Emerald",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "United_Kingdom"
+    },
+    "4183734224": {
+        "name": "PBSC106_Leander",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "United_Kingdom"
+    },
+    "4182685648": {
+        "name": "PBSC107_Fiji",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "United_Kingdom"
+    },
+    "4181637072": {
+        "name": "PBSC108_Edinburgh",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "United_Kingdom"
+    },
+    "4180588496": {
+        "name": "PBSC109_Neptune",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "United_Kingdom"
+    },
+    "4179539920": {
+        "name": "PBSC110_Minotaur",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "United_Kingdom"
+    },
+    "4178491344": {
+        "name": "PBSC111_Edgar",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "United_Kingdom"
+    },
+    "4079925200": {
+        "name": "PBSC205_Hawkins",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "United_Kingdom"
+    },
+    "4078876624": {
+        "name": "PBSC206_Devonshire",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "United_Kingdom"
+    },
+    "4077828048": {
+        "name": "PBSC207_Surrey",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "United_Kingdom"
+    },
+    "4076779472": {
+        "name": "PBSC208_Albemarle",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "United_Kingdom"
+    },
+    "4075730896": {
+        "name": "PBSC209_Drake",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "United_Kingdom"
+    },
+    "4074682320": {
+        "name": "PBSC210_Goliath",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "United_Kingdom"
+    },
+    "3765352400": {
+        "name": "PBSC505_Exeter",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "United_Kingdom"
+    },
+    "3763255248": {
+        "name": "PBSC507_Belfast_1959",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "United_Kingdom"
+    },
+    "3762206672": {
+        "name": "PBSC508_Cheshire",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "United_Kingdom"
+    },
+    "3760109520": {
+        "name": "PBSC510_Plymouth",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "United_Kingdom"
+    },
+    "3753818064": {
+        "name": "PBSC516_London",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "United_Kingdom"
+    },
+    "3751720912": {
+        "name": "PBSC518_Tiger_1959",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "United_Kingdom"
+    },
+    "3743332304": {
+        "name": "PBSC526_Dido",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "United_Kingdom"
+    },
+    "3741235152": {
+        "name": "PBSC528_Belfast_1943",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "United_Kingdom"
+    },
+    "3730749392": {
+        "name": "PBSC538_Hampshire",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "United_Kingdom"
+    },
+    "3720263632": {
+        "name": "PBSC548_Nottingham",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "United_Kingdom"
+    },
+    "3709777872": {
+        "name": "PBSC558_AZUR_Cheshire",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "United_Kingdom"
+    },
+    "3655251920": {
+        "name": "PBSC610_Gibraltar",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "United_Kingdom"
+    },
+    "3553540048": {
+        "name": "PBSC707_STPatric_Belfast_1959",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "United_Kingdom"
+    },
+    "3552491472": {
+        "name": "PBSC708_STPatric_Belfast_1943",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "United_Kingdom"
+    },
+    "3544102864": {
+        "name": "PBSC716_Orion_1944",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "United_Kingdom"
+    },
+    "3542005712": {
+        "name": "PBSC718_STPatric_Tiger_1959",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "United_Kingdom"
+    },
+    "3540957136": {
+        "name": "PBSC719_Aberdeen",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "United_Kingdom"
+    },
+    "3445536720": {
+        "name": "PBSC810_Defence",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "United_Kingdom"
+    },
+    "3363747792": {
+        "name": "PBSC888_Edinburgh_PR",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "United_Kingdom"
+    },
+    "3341727696": {
+        "name": "PBSC909_Pirate_Neptune",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "United_Kingdom"
+    },
+    "3340679120": {
+        "name": "PBSC910_Cyclops",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "United_Kingdom"
+    },
+    "3330193360": {
+        "name": "PBSC920_Pirate_Plymouth",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "United_Kingdom"
+    },
+    "4187895760": {
+        "name": "PBSD102_Medea",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "United_Kingdom"
+    },
+    "4186847184": {
+        "name": "PBSD103_Valkyrie",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "United_Kingdom"
+    },
+    "4185798608": {
+        "name": "PBSD104_Wakeful",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "United_Kingdom"
+    },
+    "4184750032": {
+        "name": "PBSD105_Acasta",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "United_Kingdom"
+    },
+    "4183701456": {
+        "name": "PBSD106_Icarus",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "United_Kingdom"
+    },
+    "4182652880": {
+        "name": "PBSD107_Jervis",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "United_Kingdom"
+    },
+    "4181604304": {
+        "name": "PBSD108_Lightning",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "United_Kingdom"
+    },
+    "4180555728": {
+        "name": "PBSD109_Jutland",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "United_Kingdom"
+    },
+    "4179507152": {
+        "name": "PBSD110_Daring",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "United_Kingdom"
+    },
+    "3767416784": {
+        "name": "PBSD503_Campbeltown_1941",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "United_Kingdom"
+    },
+    "3764271056": {
+        "name": "PBSD506_Gallant",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "United_Kingdom"
+    },
+    "3760076752": {
+        "name": "PBSD510_Druid",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "United_Kingdom"
+    },
+    "3752736720": {
+        "name": "PBSD517_Cossack",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "United_Kingdom"
+    },
+    "3750639568": {
+        "name": "PBSD519_Somme",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "United_Kingdom"
+    },
+    "3667802064": {
+        "name": "PBSD598_Black_Cossack",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "United_Kingdom"
+    },
+    "3660462032": {
+        "name": "PBSD605_Anthony_Event",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "United_Kingdom"
+    },
+    "3543021520": {
+        "name": "PBSD717_Jupiter_1942",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "United_Kingdom"
+    },
+    "3541972944": {
+        "name": "PBSD718_Eskimo",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "United_Kingdom"
+    },
+    "3540924368": {
+        "name": "PBSD719_Barfleur",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "United_Kingdom"
+    },
+    "4183209936": {
+        "name": "PBSS106_Undine",
+        "species": "Submarine",
+        "tier": null,
+        "nation": "United_Kingdom"
+    },
+    "4181112784": {
+        "name": "PBSS108_Sturdy",
+        "species": "Submarine",
+        "tier": null,
+        "nation": "United_Kingdom"
+    },
+    "4179015632": {
+        "name": "PBSS110_Thrasher",
+        "species": "Submarine",
+        "tier": null,
+        "nation": "United_Kingdom"
+    },
+    "3761682384": {
+        "name": "PBSS508_Alliance",
+        "species": "Submarine",
+        "tier": null,
+        "nation": "United_Kingdom"
+    },
+    "3549870032": {
+        "name": "PBSS710_Seal",
+        "species": "Submarine",
+        "tier": null,
+        "nation": "United_Kingdom"
+    },
+    "3340154832": {
+        "name": "PBSS910_Selkie",
+        "species": "Submarine",
+        "tier": null,
+        "nation": "United_Kingdom"
+    },
+    "3764369232": {
+        "name": "PFSA506_Bearn",
+        "species": "AirCarrier",
+        "tier": null,
+        "nation": "France"
+    },
+    "4186912592": {
+        "name": "PFSB103_Turenne",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "France"
+    },
+    "4185864016": {
+        "name": "PFSB104_Courbet",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "France"
+    },
+    "4184815440": {
+        "name": "PFSB105_Bretagne",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "France"
+    },
+    "4183766864": {
+        "name": "PFSB106_Normandie",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "France"
+    },
+    "4182718288": {
+        "name": "PFSB107_Lyon",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "France"
+    },
+    "4181669712": {
+        "name": "PFSB108_Richelieu",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "France"
+    },
+    "4180621136": {
+        "name": "PFSB109_Alsace",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "France"
+    },
+    "4179572560": {
+        "name": "PFSB110_France",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "France"
+    },
+    "4178523984": {
+        "name": "PFSB111_Patrie",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "France"
+    },
+    "3764336464": {
+        "name": "PFSB506_Dunkerque_1940",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "France"
+    },
+    "3763287888": {
+        "name": "PFSB507_Strasbourg",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "France"
+    },
+    "3762239312": {
+        "name": "PFSB508_Gascogne",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "France"
+    },
+    "3760142160": {
+        "name": "PFSB510_Bourgogne",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "France"
+    },
+    "3751753552": {
+        "name": "PFSB518_Jean_Bart",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "France"
+    },
+    "3741267792": {
+        "name": "PFSB528_Champagne",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "France"
+    },
+    "3730782032": {
+        "name": "PFSB538_Flandre",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "France"
+    },
+    "3720296272": {
+        "name": "PFSB548_Picardie",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "France"
+    },
+    "3669964624": {
+        "name": "PFSB596_Black_Dunkerque",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "France"
+    },
+    "3666818896": {
+        "name": "PFSB599_Black_Jean_Bart",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "France"
+    },
+    "3551475536": {
+        "name": "PFSB709_Roussillon",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "France"
+    },
+    "3353294672": {
+        "name": "PFSB898_Richelieu_coop",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "France"
+    },
+    "3342808912": {
+        "name": "PFSB908_Azur_Richelieu",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "France"
+    },
+    "3341760336": {
+        "name": "PFSB909_Pirate_Jean_Bart",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "France"
+    },
+    "4188976976": {
+        "name": "PFSC101_Bougainville",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "France"
+    },
+    "4187928400": {
+        "name": "PFSC102_Jurien",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "France"
+    },
+    "4186879824": {
+        "name": "PFSC103_Friant",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "France"
+    },
+    "4185831248": {
+        "name": "PFSC104_Duguay_Trouin",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "France"
+    },
+    "4184782672": {
+        "name": "PFSC105_Emile_Bertin",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "France"
+    },
+    "4183734096": {
+        "name": "PFSC106_La_Galissonniere",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "France"
+    },
+    "4182685520": {
+        "name": "PFSC107_Algerie",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "France"
+    },
+    "4181636944": {
+        "name": "PFSC108_Charles_Martel",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "France"
+    },
+    "4180588368": {
+        "name": "PFSC109_Saint_Louis",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "France"
+    },
+    "4179539792": {
+        "name": "PFSC110_Henri_IV",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "France"
+    },
+    "4178491216": {
+        "name": "PFSC111_Conde",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "France"
+    },
+    "4076779344": {
+        "name": "PFSC208_Cherbourg",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "France"
+    },
+    "4075730768": {
+        "name": "PFSC209_Brest",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "France"
+    },
+    "4074682192": {
+        "name": "PFSC210_Marseille",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "France"
+    },
+    "3764303696": {
+        "name": "PFSC506_De_Grasse",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "France"
+    },
+    "3763255120": {
+        "name": "PFSC507_Toulon",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "France"
+    },
+    "3762206544": {
+        "name": "PFSC508_Bayard",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "France"
+    },
+    "3761157968": {
+        "name": "PFSC509_Carnot",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "France"
+    },
+    "3760109392": {
+        "name": "PFSC510_Colbert",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "France"
+    },
+    "3753817936": {
+        "name": "PFSC516_Dupleix",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "France"
+    },
+    "3552491344": {
+        "name": "PFSC708_Metz",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "France"
+    },
+    "3550394192": {
+        "name": "PFSC710_Brennus",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "France"
+    },
+    "3544102736": {
+        "name": "PFSC716_Montcalm",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "France"
+    },
+    "3540957008": {
+        "name": "PFSC719_Le_Havre",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "France"
+    },
+    "3529422672": {
+        "name": "PFSC730_Amiral_Lartigue",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "France"
+    },
+    "3445536592": {
+        "name": "PFSC810_Henri_IV",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "France"
+    },
+    "3436099408": {
+        "name": "PFSC819_BA_Le_Havre",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "France"
+    },
+    "3355359056": {
+        "name": "PFSC896_La_Galissonniere_coop",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "France"
+    },
+    "4284364624": {
+        "name": "PFSD010_Cassard",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "France"
+    },
+    "4279121744": {
+        "name": "PFSD015_L_Adroit",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "France"
+    },
+    "4278073168": {
+        "name": "PFSD016_Duchaffault",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "France"
+    },
+    "4277024592": {
+        "name": "PFSD017_Le_Hardi",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "France"
+    },
+    "4275976016": {
+        "name": "PFSD018_L_Aventurier",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "France"
+    },
+    "4274927440": {
+        "name": "PFSD019_Orage",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "France"
+    },
+    "4187895632": {
+        "name": "PFSD102_Enseigne_Gabolde",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "France"
+    },
+    "4186847056": {
+        "name": "PFSD103_Fusilier",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "France"
+    },
+    "4185798480": {
+        "name": "PFSD104_Bourrasque",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "France"
+    },
+    "4184749904": {
+        "name": "PFSD105_Jaguar",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "France"
+    },
+    "4183701328": {
+        "name": "PFSD106_Guepard",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "France"
+    },
+    "4182652752": {
+        "name": "PFSD107_Vauquelin",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "France"
+    },
+    "4181604176": {
+        "name": "PFSD108_Le_Fantasque",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "France"
+    },
+    "4180555600": {
+        "name": "PFSD109_Mogador",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "France"
+    },
+    "4179507024": {
+        "name": "PFSD110_Kleber",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "France"
+    },
+    "4074649424": {
+        "name": "PFSD210_Marceau",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "France"
+    },
+    "3766368080": {
+        "name": "PFSD504_Siroco",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "France"
+    },
+    "3764270928": {
+        "name": "PFSD506_Aigle",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "France"
+    },
+    "3762173776": {
+        "name": "PFSD508_Le_Terrible",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "France"
+    },
+    "3660461904": {
+        "name": "PFSD605_Cyclone_event",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "France"
+    },
+    "3550361424": {
+        "name": "PFSD710_Chateaurenault",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "France"
+    },
+    "3541972816": {
+        "name": "PFSD718_Hoche",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "France"
+    },
+    "3447600976": {
+        "name": "PFSD808_TST_TERRIBLE",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "France"
+    },
+    "3445503824": {
+        "name": "PFSD810_Colorful_Kleber",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "France"
+    },
+    "3435018064": {
+        "name": "PFSD820_Kleber_TE",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "France"
+    },
+    "3356374864": {
+        "name": "PFSD895_Vent",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "France"
+    },
+    "3549869904": {
+        "name": "PFSS710_Surcouf",
+        "species": "Submarine",
+        "tier": null,
+        "nation": "France"
+    },
+    "4185896752": {
+        "name": "PGSA104_Rhein",
+        "species": "AirCarrier",
+        "tier": null,
+        "nation": "Germany"
+    },
+    "4183799600": {
+        "name": "PGSA106_Weser",
+        "species": "AirCarrier",
+        "tier": null,
+        "nation": "Germany"
+    },
+    "4181702448": {
+        "name": "PGSA108_Parseval",
+        "species": "AirCarrier",
+        "tier": null,
+        "nation": "Germany"
+    },
+    "4179605296": {
+        "name": "PGSA110_Manfred_Richthofen",
+        "species": "AirCarrier",
+        "tier": null,
+        "nation": "Germany"
+    },
+    "3764369200": {
+        "name": "PGSA506_Erich_Loewenhardt",
+        "species": "AirCarrier",
+        "tier": null,
+        "nation": "Germany"
+    },
+    "3762272048": {
+        "name": "PGSA508_Graf_Zeppelin",
+        "species": "AirCarrier",
+        "tier": null,
+        "nation": "Germany"
+    },
+    "3760174896": {
+        "name": "PGSA510_Werner_Voss",
+        "species": "AirCarrier",
+        "tier": null,
+        "nation": "Germany"
+    },
+    "3751786288": {
+        "name": "PGSA518_Graf_Zeppelin",
+        "species": "AirCarrier",
+        "tier": null,
+        "nation": "Germany"
+    },
+    "3667900208": {
+        "name": "PGSA598_Black_Graf_Zeppelin",
+        "species": "AirCarrier",
+        "tier": null,
+        "nation": "Germany"
+    },
+    "3655317296": {
+        "name": "PGSA610_Max_Immelmann",
+        "species": "AirCarrier",
+        "tier": null,
+        "nation": "Germany"
+    },
+    "3340744496": {
+        "name": "PGSA910_Pinata_Richthofen",
+        "species": "AirCarrier",
+        "tier": null,
+        "nation": "Germany"
+    },
+    "3256858416": {
+        "name": "PGSA990_Otto_Lilienthal",
+        "species": "AirCarrier",
+        "tier": null,
+        "nation": "Germany"
+    },
+    "4292818736": {
+        "name": "PGSB002_Tirpiz_1942",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Germany"
+    },
+    "4186912560": {
+        "name": "PGSB103_Nassau",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Germany"
+    },
+    "4185863984": {
+        "name": "PGSB104_Kaiser",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Germany"
+    },
+    "4184815408": {
+        "name": "PGSB105_Koenig",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Germany"
+    },
+    "4183766832": {
+        "name": "PGSB106_Bayern",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Germany"
+    },
+    "4182718256": {
+        "name": "PGSB107_Gneisenau",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Germany"
+    },
+    "4181669680": {
+        "name": "PGSB108_Bismarck",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Germany"
+    },
+    "4180621104": {
+        "name": "PGSB109_Friedrich_der_Grosse",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Germany"
+    },
+    "4179572528": {
+        "name": "PGSB110_Grossdeutschland",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Germany"
+    },
+    "4178523952": {
+        "name": "PGSB111_Hannover",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Germany"
+    },
+    "4082054960": {
+        "name": "PGSB203_Von_der_Tann",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Germany"
+    },
+    "4081006384": {
+        "name": "PGSB204_Moltke",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Germany"
+    },
+    "4079957808": {
+        "name": "PGSB205_Derfflinger",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Germany"
+    },
+    "4078909232": {
+        "name": "PGSB206_Mackensen",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Germany"
+    },
+    "4077860656": {
+        "name": "PGSB207_Prinz_Heinrich",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Germany"
+    },
+    "4076812080": {
+        "name": "PGSB208_Zieten",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Germany"
+    },
+    "4075763504": {
+        "name": "PGSB209_Prinz_Rupprecht",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Germany"
+    },
+    "4074714928": {
+        "name": "PGSB210_Schlieffen",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Germany"
+    },
+    "3969857328": {
+        "name": "PGSB310_Preussen",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Germany"
+    },
+    "3767482160": {
+        "name": "PGSB503_Koenig_Albert",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Germany"
+    },
+    "3764336432": {
+        "name": "PGSB506_Prinz_Eithel_Friedrich",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Germany"
+    },
+    "3763287856": {
+        "name": "PGSB507_Scharnhorst",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Germany"
+    },
+    "3762239280": {
+        "name": "PGSB508_Odin",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Germany"
+    },
+    "3761190704": {
+        "name": "PGSB509_Pommern",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Germany"
+    },
+    "3752802096": {
+        "name": "PGSB517_AZUR_Prinz_Heinrich",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Germany"
+    },
+    "3751753520": {
+        "name": "PGSB518_Brandenburg",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Germany"
+    },
+    "3741267760": {
+        "name": "PGSB528_Anhalt",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Germany"
+    },
+    "3730782000": {
+        "name": "PGSB538_Black_Brandenburg",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Germany"
+    },
+    "3668916016": {
+        "name": "PGSB597_Black_Scharnhorst",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Germany"
+    },
+    "3667867440": {
+        "name": "PGSB598_Black_Tirpitz",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Germany"
+    },
+    "3666818864": {
+        "name": "PGSB599_Black_Pommern",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Germany"
+    },
+    "3655284528": {
+        "name": "PGSB610_Mecklenburg",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Germany"
+    },
+    "3552524080": {
+        "name": "PGSB708_Bismarck_1941",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Germany"
+    },
+    "3543086896": {
+        "name": "PGSB717_Scharnhorst_1943",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Germany"
+    },
+    "3437180720": {
+        "name": "PGSB818_BA_Tirpitz",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Germany"
+    },
+    "3426694960": {
+        "name": "PGSB828_Odin_TE",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Germany"
+    },
+    "3353294640": {
+        "name": "PGSB898_Azur_Bismarck",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Germany"
+    },
+    "3342808880": {
+        "name": "PGSB908_PostApoc_Zieten",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Germany"
+    },
+    "3340711728": {
+        "name": "PGSB910_Grossdeutschland",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Germany"
+    },
+    "3332323120": {
+        "name": "PGSB918_Pirate_Brandenburg",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Germany"
+    },
+    "3330225968": {
+        "name": "PGSB920_Schlieffen",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Germany"
+    },
+    "3319740208": {
+        "name": "PGSB930_Pinata_Schliefen",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Germany"
+    },
+    "3257874224": {
+        "name": "PGSB989_Prinz_Sigismund",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Germany"
+    },
+    "3247388464": {
+        "name": "PGSB999_Hannover",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Germany"
+    },
+    "4293834544": {
+        "name": "PGSC001_Hermelin_1940",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Germany"
+    },
+    "4292785968": {
+        "name": "PGSC002_Drezden_1908",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Germany"
+    },
+    "4284397360": {
+        "name": "PGSC010_Prinz_Adalbert",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Germany"
+    },
+    "4278105904": {
+        "name": "PGSC016_Deutschland",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Germany"
+    },
+    "4277057328": {
+        "name": "PGSC017_Admiral_Scheer",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Germany"
+    },
+    "4276008752": {
+        "name": "PGSC018_Knesebeck",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Germany"
+    },
+    "4274960176": {
+        "name": "PGSC019_Manteuffel",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Germany"
+    },
+    "4186879792": {
+        "name": "PGSC103_Kolberg",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Germany"
+    },
+    "4185831216": {
+        "name": "PGSC104_Karlsruhe",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Germany"
+    },
+    "4184782640": {
+        "name": "PGSC105_Konigsberg",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Germany"
+    },
+    "4183734064": {
+        "name": "PGSC106_Nurnberg",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Germany"
+    },
+    "4182685488": {
+        "name": "PGSC107_Yorck",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Germany"
+    },
+    "4181636912": {
+        "name": "PGSC108_Hipper",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Germany"
+    },
+    "4180588336": {
+        "name": "PGSC109_Roon",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Germany"
+    },
+    "4179539760": {
+        "name": "PGSC110_Hindenburg",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Germany"
+    },
+    "4178491184": {
+        "name": "PGSC111_Clausewitz",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Germany"
+    },
+    "3768497968": {
+        "name": "PGSC502_Emden_1908",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Germany"
+    },
+    "3764303664": {
+        "name": "PGSC506_Admiral_Graf_Spee",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Germany"
+    },
+    "3763255088": {
+        "name": "PGSC507_Munchen",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Germany"
+    },
+    "3762206512": {
+        "name": "PGSC508_Prinz_Eugen",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Germany"
+    },
+    "3761157936": {
+        "name": "PGSC509_Siegfried",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Germany"
+    },
+    "3753817904": {
+        "name": "PGSC516_Leipzig",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Germany"
+    },
+    "3752769328": {
+        "name": "PGSC517_Weimar",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Germany"
+    },
+    "3751720752": {
+        "name": "PGSC518_Mainz",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Germany"
+    },
+    "3750672176": {
+        "name": "PGSC519_Aegir",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Germany"
+    },
+    "3741234992": {
+        "name": "PGSC528_Schill",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Germany"
+    },
+    "3740186416": {
+        "name": "PGSC529_Admiral_Schroder",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Germany"
+    },
+    "3667834672": {
+        "name": "PGSC598_Black_Mainz",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Germany"
+    },
+    "3554588464": {
+        "name": "PGSC706_HSF_Graf_Spee",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Germany"
+    },
+    "3550394160": {
+        "name": "PGSC710_Hildebrand",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Germany"
+    },
+    "3543054128": {
+        "name": "PGSC717_Nurnberg_1944",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Germany"
+    },
+    "3542005552": {
+        "name": "PGSC718_Warhammer_Blacktemplar",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Germany"
+    },
+    "3539908400": {
+        "name": "PGSC720_Bremen",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Germany"
+    },
+    "3531519792": {
+        "name": "PGSC728_Wiesbaden",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Germany"
+    },
+    "3530471216": {
+        "name": "PGSC729_Blucher",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Germany"
+    },
+    "3446585136": {
+        "name": "PGSC809_Colorful_Roon",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Germany"
+    },
+    "3438196528": {
+        "name": "PGSC817_Black_Munchen",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Germany"
+    },
+    "3361650480": {
+        "name": "PGSC890_Azur_Hindenburg",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Germany"
+    },
+    "3360601904": {
+        "name": "PGSC891_Clausewitz_PLUS",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Germany"
+    },
+    "3352213296": {
+        "name": "PGSC899_AZUR_Aegir",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Germany"
+    },
+    "3342776112": {
+        "name": "PGSC908_Black_Schill",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Germany"
+    },
+    "3340678960": {
+        "name": "PGSC910_Hindenburg",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Germany"
+    },
+    "3330193200": {
+        "name": "PGSC920_Gold_Bremen",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Germany"
+    },
+    "3250501424": {
+        "name": "PGSC996_Admiral_Reinhard",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Germany"
+    },
+    "4187895600": {
+        "name": "PGSD102_V_25",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Germany"
+    },
+    "4186847024": {
+        "name": "PGSD103_G_101",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Germany"
+    },
+    "4185798448": {
+        "name": "PGSD104_V_170",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Germany"
+    },
+    "4184749872": {
+        "name": "PGSD105_T_22",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Germany"
+    },
+    "4183701296": {
+        "name": "PGSD106_Ernst_Gaede",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Germany"
+    },
+    "4182652720": {
+        "name": "PGSD107_Leberecht_Maass",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Germany"
+    },
+    "4181604144": {
+        "name": "PGSD108_Z_23",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Germany"
+    },
+    "4180555568": {
+        "name": "PGSD109_Z_46",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Germany"
+    },
+    "4179506992": {
+        "name": "PGSD110_Z_52",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Germany"
+    },
+    "4178458416": {
+        "name": "PGSD111_Z_57",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Germany"
+    },
+    "4077795120": {
+        "name": "PGSD207_Z_31",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Germany"
+    },
+    "4076746544": {
+        "name": "PGSD208_Gustav_Julius_Maerker",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Germany"
+    },
+    "4075697968": {
+        "name": "PGSD209_Felix_Schultz",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Germany"
+    },
+    "4074649392": {
+        "name": "PGSD210_Elbing",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Germany"
+    },
+    "3764270896": {
+        "name": "PGSD506_T_61",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Germany"
+    },
+    "3762173744": {
+        "name": "PGSD508_Z_39",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Germany"
+    },
+    "3753785136": {
+        "name": "PGSD516_Karl_von_Schonberg",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Germany"
+    },
+    "3751687984": {
+        "name": "PGSD518_Z_35",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Germany"
+    },
+    "3750639408": {
+        "name": "PGSD519_Z_44",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Germany"
+    },
+    "3740153648": {
+        "name": "PGSD529_ZF_6",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Germany"
+    },
+    "3655218992": {
+        "name": "PGSD610_Z_42",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Germany"
+    },
+    "3553507120": {
+        "name": "PGSD707_Z32_EventDday_Torp",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Germany"
+    },
+    "3551409968": {
+        "name": "PGSD709_GM_ZF_6",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Germany"
+    },
+    "3550361392": {
+        "name": "PGSD710_Georg_Hoffmann",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Germany"
+    },
+    "3543021360": {
+        "name": "PGSD717_Z33_EventDday_MG",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Germany"
+    },
+    "3540924208": {
+        "name": "PGSD719_ZH_1",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Germany"
+    },
+    "3539875632": {
+        "name": "PGSD720_Gold_Georg_Hoffmann",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Germany"
+    },
+    "3532535600": {
+        "name": "PGSD727_z34_EventDday_Support",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Germany"
+    },
+    "3522049840": {
+        "name": "PGSD737_z38_EventDday_Heal",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Germany"
+    },
+    "3340646192": {
+        "name": "PGSD910_East_Z_52",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Germany"
+    },
+    "3256760112": {
+        "name": "PGSD990_Lubeck",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Germany"
+    },
+    "4183209776": {
+        "name": "PGSS106_U_69",
+        "species": "Submarine",
+        "tier": null,
+        "nation": "Germany"
+    },
+    "4181112624": {
+        "name": "PGSS108_U190",
+        "species": "Submarine",
+        "tier": null,
+        "nation": "Germany"
+    },
+    "4179015472": {
+        "name": "PGSS110_U_2501",
+        "species": "Submarine",
+        "tier": null,
+        "nation": "Germany"
+    },
+    "4078352176": {
+        "name": "PGSS206_U_69",
+        "species": "Submarine",
+        "tier": null,
+        "nation": "Germany"
+    },
+    "4076255024": {
+        "name": "PGSS208_U190",
+        "species": "Submarine",
+        "tier": null,
+        "nation": "Germany"
+    },
+    "4074157872": {
+        "name": "PGSS210_U_2501",
+        "species": "Submarine",
+        "tier": null,
+        "nation": "Germany"
+    },
+    "3759585072": {
+        "name": "PGSS510_U4501",
+        "species": "Submarine",
+        "tier": null,
+        "nation": "Germany"
+    },
+    "3550426896": {
+        "name": "PHSB710_Willem_de_Eerste",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Netherlands"
+    },
+    "4284397328": {
+        "name": "PHSC010_Utrecht",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Netherlands"
+    },
+    "4276008720": {
+        "name": "PHSC018_Jaarsveld",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Netherlands"
+    },
+    "4274960144": {
+        "name": "PHSC019_Menno_Van_Coehoorn",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Netherlands"
+    },
+    "4188976912": {
+        "name": "PHSC101_Van_Kinsbergen",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Netherlands"
+    },
+    "4187928336": {
+        "name": "PHSC102_Gelderland",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Netherlands"
+    },
+    "4186879760": {
+        "name": "PHSC103_Java",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Netherlands"
+    },
+    "4185831184": {
+        "name": "PHSC104_De_Ruyter",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Netherlands"
+    },
+    "4184782608": {
+        "name": "PHSC105_Celebes",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Netherlands"
+    },
+    "4183734032": {
+        "name": "PHSC106_Kijkduin",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Netherlands"
+    },
+    "4182685456": {
+        "name": "PHSC107_Eendracht",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Netherlands"
+    },
+    "4181636880": {
+        "name": "PHSC108_Haarlem",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Netherlands"
+    },
+    "4180588304": {
+        "name": "PHSC109_Johan_de_Witt",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Netherlands"
+    },
+    "4179539728": {
+        "name": "PHSC110_Gouden_Leeuw",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Netherlands"
+    },
+    "3762206480": {
+        "name": "PHSC508_De_Zeven_Provincien",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Netherlands"
+    },
+    "3761157904": {
+        "name": "PHSC509_Van_Speijk",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Netherlands"
+    },
+    "3552491280": {
+        "name": "PHSC708_Vrijheid",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Netherlands"
+    },
+    "3550394128": {
+        "name": "PHSC710_Prins_Van_Oranje",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Netherlands"
+    },
+    "3539908368": {
+        "name": "PHSC720_Gold_Prins_Van_Oranje",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Netherlands"
+    },
+    "3529422608": {
+        "name": "PHSC730_Unie",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Netherlands"
+    },
+    "3258890000": {
+        "name": "PHSC988_Admiraal",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Netherlands"
+    },
+    "3256792848": {
+        "name": "PHSC990_Vrijheid",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Netherlands"
+    },
+    "3248404240": {
+        "name": "PHSC998_Statenland",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Netherlands"
+    },
+    "3761125136": {
+        "name": "PHSD509_Groningen",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Netherlands"
+    },
+    "3655218960": {
+        "name": "PHSD610_Tromp",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Netherlands"
+    },
+    "3549869840": {
+        "name": "PHSS710_Tonijn",
+        "species": "Submarine",
+        "tier": null,
+        "nation": "Netherlands"
+    },
+    "3762271984": {
+        "name": "PISA508_Aquila",
+        "species": "AirCarrier",
+        "tier": null,
+        "nation": "Italy"
+    },
+    "4283381488": {
+        "name": "PISB011_Affondatore",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Italy"
+    },
+    "4185863920": {
+        "name": "PISB104_Dante_Alighieri",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Italy"
+    },
+    "4184815344": {
+        "name": "PISB105_Conte_di_Cavour",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Italy"
+    },
+    "4183766768": {
+        "name": "PISB106_Andrea_Doria",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Italy"
+    },
+    "4182718192": {
+        "name": "PISB107_Francesco_Caracciolo",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Italy"
+    },
+    "4181669616": {
+        "name": "PISB108_Vittorio_Veneto",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Italy"
+    },
+    "4180621040": {
+        "name": "PISB109_Lepanto",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Italy"
+    },
+    "4179572464": {
+        "name": "PISB110_Cristoforo_Colombo",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Italy"
+    },
+    "3765384944": {
+        "name": "PISB505_Giulio_Cesare",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Italy"
+    },
+    "3762239216": {
+        "name": "PISB508_Roma",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Italy"
+    },
+    "3761190640": {
+        "name": "PISB509_Marco_Polo",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Italy"
+    },
+    "3760142064": {
+        "name": "PISB510_Ruggiero_di_Lauria",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Italy"
+    },
+    "3750704880": {
+        "name": "PISB519_Giuseppe_Verdi",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Italy"
+    },
+    "3552524016": {
+        "name": "PISB708_AZUR_Littorio",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Italy"
+    },
+    "3551475440": {
+        "name": "PISB709_Olympian_Marco_Polo",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Italy"
+    },
+    "3550426864": {
+        "name": "PISB710_Sicilia",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Italy"
+    },
+    "3542038256": {
+        "name": "PISB718_Marcantonio_Colonna",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Italy"
+    },
+    "3540989680": {
+        "name": "PISB719_Olympian_Giuseppe_Verdi",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Italy"
+    },
+    "3450812144": {
+        "name": "PISB805_TST_CESARE",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Italy"
+    },
+    "3445569264": {
+        "name": "PISB810_Cyber_Ruggiero_di_Lauria",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Italy"
+    },
+    "3437180656": {
+        "name": "PISB818_BA_Marcantonio_Colonna",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Italy"
+    },
+    "3342808816": {
+        "name": "PISB908_FBO_Roma",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Italy"
+    },
+    "3341760240": {
+        "name": "PISB909_Azur_Marco_Polo",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Italy"
+    },
+    "3256825584": {
+        "name": "PISB990_Amerigo_Vespucci",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Italy"
+    },
+    "4188976880": {
+        "name": "PISC101_Eritrea",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Italy"
+    },
+    "4187928304": {
+        "name": "PISC102_Nino_Bixio",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Italy"
+    },
+    "4186879728": {
+        "name": "PISC103_Taranto",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Italy"
+    },
+    "4185831152": {
+        "name": "PISC104_Alberto_da_Giussano",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Italy"
+    },
+    "4184782576": {
+        "name": "PISC105_Raimondo_Montecuccoli",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Italy"
+    },
+    "4183734000": {
+        "name": "PISC106_Trento",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Italy"
+    },
+    "4182685424": {
+        "name": "PISC107_Zara",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Italy"
+    },
+    "4181636848": {
+        "name": "PISC108_Amalfi",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Italy"
+    },
+    "4180588272": {
+        "name": "PISC109_Brindisi",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Italy"
+    },
+    "4179539696": {
+        "name": "PISC110_Venezia",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Italy"
+    },
+    "4178491120": {
+        "name": "PISC111_Piemonte",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Italy"
+    },
+    "3765352176": {
+        "name": "PISC505_Genova",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Italy"
+    },
+    "3764303600": {
+        "name": "PISC506_DucadAosta",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Italy"
+    },
+    "3763255024": {
+        "name": "PISC507_Duca_degli_Abruzzi",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Italy"
+    },
+    "3760109296": {
+        "name": "PISC510_Napoli",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Italy"
+    },
+    "3752769264": {
+        "name": "PISC517_Francesco_Ferruccio",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Italy"
+    },
+    "3750672112": {
+        "name": "PISC519_Michelangelo",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Italy"
+    },
+    "3676223216": {
+        "name": "PISC590_Black_Napoli",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Italy"
+    },
+    "3658397424": {
+        "name": "PISC607_Gorizia",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Italy"
+    },
+    "3553539824": {
+        "name": "PISC707_Olympian_Francesco_Ferruccio",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Italy"
+    },
+    "3550394096": {
+        "name": "PISC710_Varese",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Italy"
+    },
+    "3543054064": {
+        "name": "PISC717_Fiume",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Italy"
+    },
+    "3540956912": {
+        "name": "PISC719_Ferrante_Gonzaga",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Italy"
+    },
+    "3530471152": {
+        "name": "PISC729_Messina",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Italy"
+    },
+    "3354310384": {
+        "name": "PISC897_Azur_Gorizia",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Italy"
+    },
+    "3342776048": {
+        "name": "PISC908_East_Amalfi",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Italy"
+    },
+    "3256792816": {
+        "name": "PISC990_Ravenna",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Italy"
+    },
+    "4187895536": {
+        "name": "PISD102_Curtatone",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Italy"
+    },
+    "4186846960": {
+        "name": "PISD103_Sauro",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Italy"
+    },
+    "4185798384": {
+        "name": "PISD104_Turbine",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Italy"
+    },
+    "4184749808": {
+        "name": "PISD105_Maestrale",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Italy"
+    },
+    "4183701232": {
+        "name": "PISD106_Aviere",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Italy"
+    },
+    "4182652656": {
+        "name": "PISD107_Luca_Tarigo",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Italy"
+    },
+    "4181604080": {
+        "name": "PISD108_Vittorio_Cuniberti",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Italy"
+    },
+    "4180555504": {
+        "name": "PISD109_Adriatico",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Italy"
+    },
+    "4179506928": {
+        "name": "PISD110_Attilio_Regolo",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Italy"
+    },
+    "3764270832": {
+        "name": "PISD506_Leone",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Italy"
+    },
+    "3763222256": {
+        "name": "PISD507_FR25",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Italy"
+    },
+    "3761125104": {
+        "name": "PISD509_Paolo_Emilio",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Italy"
+    },
+    "3550361328": {
+        "name": "PISD710_Alberico_da_Barbiano",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Italy"
+    },
+    "4183209712": {
+        "name": "PISS106_Foca",
+        "species": "Submarine",
+        "tier": null,
+        "nation": "Italy"
+    },
+    "4181112560": {
+        "name": "PISS108_Pietro_Micca",
+        "species": "Submarine",
+        "tier": null,
+        "nation": "Italy"
+    },
+    "4179015408": {
+        "name": "PISS110_Calvi",
+        "species": "Submarine",
+        "tier": null,
+        "nation": "Italy"
+    },
+    "4292851408": {
+        "name": "PJSA002_Hosho_1939",
+        "species": "AirCarrier",
+        "tier": null,
+        "nation": "Japan"
+    },
+    "4288657104": {
+        "name": "PJSA006_Zuiho_1944",
+        "species": "AirCarrier",
+        "tier": null,
+        "nation": "Japan"
+    },
+    "4285511376": {
+        "name": "PJSA009_Ryujo_1933",
+        "species": "AirCarrier",
+        "tier": null,
+        "nation": "Japan"
+    },
+    "4283414224": {
+        "name": "PJSA011_Hiryu_1942",
+        "species": "AirCarrier",
+        "tier": null,
+        "nation": "Japan"
+    },
+    "4282365648": {
+        "name": "PJSA012_Zuikaku_1944",
+        "species": "AirCarrier",
+        "tier": null,
+        "nation": "Japan"
+    },
+    "4279219920": {
+        "name": "PJSA015_Taiho_1944",
+        "species": "AirCarrier",
+        "tier": null,
+        "nation": "Japan"
+    },
+    "4277122768": {
+        "name": "PJSA017_Hakuryu_1942",
+        "species": "AirCarrier",
+        "tier": null,
+        "nation": "Japan"
+    },
+    "4185896656": {
+        "name": "PJSA104_Hosho",
+        "species": "AirCarrier",
+        "tier": null,
+        "nation": "Japan"
+    },
+    "4183799504": {
+        "name": "PJSA106_Ryujo",
+        "species": "AirCarrier",
+        "tier": null,
+        "nation": "Japan"
+    },
+    "4181702352": {
+        "name": "PJSA108_Shokaku",
+        "species": "AirCarrier",
+        "tier": null,
+        "nation": "Japan"
+    },
+    "4179605200": {
+        "name": "PJSA110_Hakuryu",
+        "species": "AirCarrier",
+        "tier": null,
+        "nation": "Japan"
+    },
+    "4178556624": {
+        "name": "PJSA111_Sekiryu",
+        "species": "AirCarrier",
+        "tier": null,
+        "nation": "Japan"
+    },
+    "3763320528": {
+        "name": "PJSA507_Kaga",
+        "species": "AirCarrier",
+        "tier": null,
+        "nation": "Japan"
+    },
+    "3751786192": {
+        "name": "PJSA518_Kaga",
+        "species": "AirCarrier",
+        "tier": null,
+        "nation": "Japan"
+    },
+    "3667900112": {
+        "name": "PJSA598_Black_Kaga",
+        "species": "AirCarrier",
+        "tier": null,
+        "nation": "Japan"
+    },
+    "3550459600": {
+        "name": "PJSA710_Shinano",
+        "species": "AirCarrier",
+        "tier": null,
+        "nation": "Japan"
+    },
+    "3342841552": {
+        "name": "PJSA908_Kikaku",
+        "species": "AirCarrier",
+        "tier": null,
+        "nation": "Japan"
+    },
+    "3340744400": {
+        "name": "PJSA910_Taiho",
+        "species": "AirCarrier",
+        "tier": null,
+        "nation": "Japan"
+    },
+    "3333404368": {
+        "name": "PJSA917_TST_Hakuryu",
+        "species": "AirCarrier",
+        "tier": null,
+        "nation": "Japan"
+    },
+    "3330258640": {
+        "name": "PJSA920_Azur_Shinano",
+        "species": "AirCarrier",
+        "tier": null,
+        "nation": "Japan"
+    },
+    "4293867216": {
+        "name": "PJSB001_Kawachi_1912",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Japan"
+    },
+    "4291770064": {
+        "name": "PJSB003_Myogi_1912",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Japan"
+    },
+    "4288624336": {
+        "name": "PJSB006_Fuso_1943",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Japan"
+    },
+    "4287575760": {
+        "name": "PJSB007_Kongo_1942",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Japan"
+    },
+    "4286527184": {
+        "name": "PJSB008_Ishizuchi_1921",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Japan"
+    },
+    "4284430032": {
+        "name": "PJSB010_Nagato_1944",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Japan"
+    },
+    "4283381456": {
+        "name": "PJSB011_Mikasa_1905",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Japan"
+    },
+    "4281284304": {
+        "name": "PJSB013_Amagi_1942",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Japan"
+    },
+    "4276041424": {
+        "name": "PJSB018_Yamato_1944",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Japan"
+    },
+    "4272895696": {
+        "name": "PJSB021_Izumo_1938",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Japan"
+    },
+    "4178523856": {
+        "name": "PJSB111_Satsuma",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Japan"
+    },
+    "4076811984": {
+        "name": "PJSB208_Yumihari",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Japan"
+    },
+    "4075763408": {
+        "name": "PJSB209_Adatara",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Japan"
+    },
+    "4074714832": {
+        "name": "PJSB210_Bungo",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Japan"
+    },
+    "3764336336": {
+        "name": "PJSB506_Mutsu",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Japan"
+    },
+    "3763287760": {
+        "name": "PJSB507_Ashitaka",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Japan"
+    },
+    "3762239184": {
+        "name": "PJSB508_Kii",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Japan"
+    },
+    "3761190608": {
+        "name": "PJSB509_Musashi",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Japan"
+    },
+    "3760142032": {
+        "name": "PJSB510_Shikishima",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Japan"
+    },
+    "3752802000": {
+        "name": "PJSB517_Hyuga",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Japan"
+    },
+    "3750704848": {
+        "name": "PJSB519_Hizen",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Japan"
+    },
+    "3743364816": {
+        "name": "PJSB526_Ise",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Japan"
+    },
+    "3740219088": {
+        "name": "PJSB529_Iwami",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Japan"
+    },
+    "3729733328": {
+        "name": "PJSB539_Daisen",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Japan"
+    },
+    "3719247568": {
+        "name": "PJSB549_Tsurugi",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Japan"
+    },
+    "3708761808": {
+        "name": "PJSB559_Black_Iwami",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Japan"
+    },
+    "3560912592": {
+        "name": "PJSB700_ARP_Yamato",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Japan"
+    },
+    "3555669712": {
+        "name": "PJSB705_Kongou",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Japan"
+    },
+    "3554621136": {
+        "name": "PJSB706_Kirishima",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Japan"
+    },
+    "3553572560": {
+        "name": "PJSB707_Haruna",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Japan"
+    },
+    "3552523984": {
+        "name": "PJSB708_Hiei_Arpeggio",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Japan"
+    },
+    "3550426832": {
+        "name": "PJSB710_FBO_Yamato",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Japan"
+    },
+    "3545183952": {
+        "name": "PJSB715_HSF_Hiei",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Japan"
+    },
+    "3540989648": {
+        "name": "PJSB719_Hotaka",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Japan"
+    },
+    "3539941072": {
+        "name": "PJSB720_Aki",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Japan"
+    },
+    "3457103568": {
+        "name": "PJSB799_Kirishima",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Japan"
+    },
+    "3374266064": {
+        "name": "PJSB878_Ignis_Purgatio",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Japan"
+    },
+    "3363780304": {
+        "name": "PJSB888_Ragnarok",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Japan"
+    },
+    "3360634576": {
+        "name": "PJSB891_Satsuma_PLUS",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Japan"
+    },
+    "3344905936": {
+        "name": "PJSB906_Ise_TEST1",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Japan"
+    },
+    "3334420176": {
+        "name": "PJSB916_Ise_TEST2",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Japan"
+    },
+    "3332323024": {
+        "name": "PJSB918_Yamato_1944",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Japan"
+    },
+    "3330225872": {
+        "name": "PJSB920_Gold_Aki",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Japan"
+    },
+    "3247388368": {
+        "name": "PJSB999_Satsuma",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Japan"
+    },
+    "4290688720": {
+        "name": "PJSC004_Yubari_1944",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Japan"
+    },
+    "4289640144": {
+        "name": "PJSC005_Furutaka_1926",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Japan"
+    },
+    "4287542992": {
+        "name": "PJSC007_Aoba_1943",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Japan"
+    },
+    "4286494416": {
+        "name": "PJSC008_Myoko_1945",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Japan"
+    },
+    "4285445840": {
+        "name": "PJSC009_Mogami_1935",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Japan"
+    },
+    "4282300112": {
+        "name": "PJSC012_Ibuki_1944",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Japan"
+    },
+    "4281251536": {
+        "name": "PJSC013_Kuma_1938",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Japan"
+    },
+    "4280202960": {
+        "name": "PJSC014_Kitakami_1945",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Japan"
+    },
+    "4279154384": {
+        "name": "PJSC015_Tatsuta_1919",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Japan"
+    },
+    "4276008656": {
+        "name": "PJSC018_Tone",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Japan"
+    },
+    "4267620048": {
+        "name": "PJSC026_Iwaki_1944",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Japan"
+    },
+    "4259231440": {
+        "name": "PJSC034_Zao_1944",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Japan"
+    },
+    "4258182864": {
+        "name": "PJSC035_Chikuma_1912",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Japan"
+    },
+    "4256085712": {
+        "name": "PJSC037_Hashidate_1940",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Japan"
+    },
+    "4255037136": {
+        "name": "PJSC038_Atago_1944",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Japan"
+    },
+    "4079924944": {
+        "name": "PJSC205_Agano",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Japan"
+    },
+    "4078876368": {
+        "name": "PJSC206_Gokase",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Japan"
+    },
+    "4077827792": {
+        "name": "PJSC207_Omono",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Japan"
+    },
+    "4076779216": {
+        "name": "PJSC208_Shimanto",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Japan"
+    },
+    "4075730640": {
+        "name": "PJSC209_Takahashi",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Japan"
+    },
+    "4074682064": {
+        "name": "PJSC210_Yodo",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Japan"
+    },
+    "3767449296": {
+        "name": "PJSC503_Katori",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Japan"
+    },
+    "3765352144": {
+        "name": "PJSC505_Yahagi",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Japan"
+    },
+    "3763254992": {
+        "name": "PJSC507_Tokachi",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Japan"
+    },
+    "3760109264": {
+        "name": "PJSC510_Azumaya",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Japan"
+    },
+    "3752769232": {
+        "name": "PJSC517_Maya",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Japan"
+    },
+    "3750672080": {
+        "name": "PJSC519_AZUR_Azuma",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Japan"
+    },
+    "3749623504": {
+        "name": "PJSC520_Yoshino",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Japan"
+    },
+    "3676223184": {
+        "name": "PJSC590_Black_Yoshino",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Japan"
+    },
+    "3667834576": {
+        "name": "PJSC598_Black_Atago",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Japan"
+    },
+    "3655251664": {
+        "name": "PJSC610_Kitakami",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Japan"
+    },
+    "3555636944": {
+        "name": "PJSC705_Myoko",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Japan"
+    },
+    "3553539792": {
+        "name": "PJSC707_Ashigara",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Japan"
+    },
+    "3552491216": {
+        "name": "PJSC708_ARP_Takao",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Japan"
+    },
+    "3551442640": {
+        "name": "PJSC709_Haguro",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Japan"
+    },
+    "3550394064": {
+        "name": "PJSC710_Yari",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Japan"
+    },
+    "3543054032": {
+        "name": "PJSC717_Yellow_Dragon",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Japan"
+    },
+    "3542005456": {
+        "name": "PJSC718_ARP_Maya",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Japan"
+    },
+    "3540956880": {
+        "name": "PJSC719_Chikuma_2_Hyb",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Japan"
+    },
+    "3539908304": {
+        "name": "PJSC720_Kushiro",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Japan"
+    },
+    "3532568272": {
+        "name": "PJSC727_Blue_Dragon",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Japan"
+    },
+    "3530471120": {
+        "name": "PJSC729_GW_Chikuma_2_Hyb",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Japan"
+    },
+    "3522082512": {
+        "name": "PJSC737_Nachi",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Japan"
+    },
+    "3519985360": {
+        "name": "PJSC739_Suzuya",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Japan"
+    },
+    "3509499600": {
+        "name": "PJSC749_GM_Suzuya",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Japan"
+    },
+    "3499013840": {
+        "name": "PJSC759_VL_Suzuya",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Japan"
+    },
+    "3445536464": {
+        "name": "PJSC810_TST_ZAO",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Japan"
+    },
+    "3436099280": {
+        "name": "PJSC819_BA_Takahashi",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Japan"
+    },
+    "3425613520": {
+        "name": "PJSC829_Black_Azumaya",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Japan"
+    },
+    "3361650384": {
+        "name": "PJSC890_CLR_Zao",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Japan"
+    },
+    "3345921744": {
+        "name": "PJSC905_East_Furutaka_1926",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Japan"
+    },
+    "3332290256": {
+        "name": "PJSC918_Tone_Second",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Japan"
+    },
+    "3331241680": {
+        "name": "PJSC919_Tone_Third",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Japan"
+    },
+    "3315513040": {
+        "name": "PJSC934_Zao_1944",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Japan"
+    },
+    "4293801680": {
+        "name": "PJSD001_Tachibana_1912",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Japan"
+    },
+    "4292753104": {
+        "name": "PJSD002_Umikaze_1925",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Japan"
+    },
+    "4291704528": {
+        "name": "PJSD003_Isokaze_1917",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Japan"
+    },
+    "4290655952": {
+        "name": "PJSD004_Minekadze_1920",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Japan"
+    },
+    "4289607376": {
+        "name": "PJSD005_Mutsuki_1926",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Japan"
+    },
+    "4288558800": {
+        "name": "PJSD006_Hatsuharu_1945",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Japan"
+    },
+    "4287510224": {
+        "name": "PJSD007_Fubuki_1944",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Japan"
+    },
+    "4284364496": {
+        "name": "PJSD010_Kagero_1943",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Japan"
+    },
+    "4282267344": {
+        "name": "PJSD012_Shimakaze_1943",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Japan"
+    },
+    "4280170192": {
+        "name": "PJSD014_Tachibana_1912_Asus",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Japan"
+    },
+    "4277024464": {
+        "name": "PJSD017_Kamikaze_1930",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Japan"
+    },
+    "4269684432": {
+        "name": "PJSD024_Wakatake_1923",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Japan"
+    },
+    "4268635856": {
+        "name": "PJSD025_True_Kamikaze",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Japan"
+    },
+    "4267587280": {
+        "name": "PJSD026_Camo_Kamikaze",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Japan"
+    },
+    "4184749776": {
+        "name": "PJSD105_Mutsuki",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Japan"
+    },
+    "4183701200": {
+        "name": "PJSD106_Fubuki",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Japan"
+    },
+    "4182652624": {
+        "name": "PJSD107_Akatsuki",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Japan"
+    },
+    "4181604048": {
+        "name": "PJSD108_Akizuki",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Japan"
+    },
+    "4178458320": {
+        "name": "PJSD111_Yamagiri",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Japan"
+    },
+    "4078843600": {
+        "name": "PJSD206_Hatsuharu",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Japan"
+    },
+    "4077795024": {
+        "name": "PJSD207_Shiratsuyu",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Japan"
+    },
+    "4076746448": {
+        "name": "PJSD208_Kagero",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Japan"
+    },
+    "4075697872": {
+        "name": "PJSD209_Yugumo",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Japan"
+    },
+    "4074649296": {
+        "name": "PJSD210_Harugumo",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Japan"
+    },
+    "4065212112": {
+        "name": "PJSD219_Kitakaze",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Japan"
+    },
+    "3763222224": {
+        "name": "PJSD507_Yudachi",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Japan"
+    },
+    "3760076496": {
+        "name": "PJSD510_Hayate",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Japan"
+    },
+    "3751687888": {
+        "name": "PJSD518_Asashio",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Japan"
+    },
+    "3741202128": {
+        "name": "PJSD528_Harekaze_2",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Japan"
+    },
+    "3669898960": {
+        "name": "PJSD596_Black_Shinonome",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Japan"
+    },
+    "3667801808": {
+        "name": "PJSD598_Black_Asashio",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Japan"
+    },
+    "3554555600": {
+        "name": "PJSD706_Shinonome",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Japan"
+    },
+    "3552458448": {
+        "name": "PJSD708_HSF_Harekaze",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Japan"
+    },
+    "3541972688": {
+        "name": "PJSD718_AZUR_Yukikaze",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Japan"
+    },
+    "3540924112": {
+        "name": "PJSD719_Minegumo",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Japan"
+    },
+    "3531486928": {
+        "name": "PJSD728_Shigure",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Japan"
+    },
+    "3362666192": {
+        "name": "PJSD889_Kitakaze_PR",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Japan"
+    },
+    "3361617616": {
+        "name": "PJSD890_AZUR_Shimakaze",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Japan"
+    },
+    "3360569040": {
+        "name": "PJSD891_Yamagiri_PLUS",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Japan"
+    },
+    "3338548944": {
+        "name": "PJSD912_Shimakaze_1943",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Japan"
+    },
+    "3761682128": {
+        "name": "PJSS508_I58",
+        "species": "Submarine",
+        "tier": null,
+        "nation": "Japan"
+    },
+    "3751196368": {
+        "name": "PJSS518_I56",
+        "species": "Submarine",
+        "tier": null,
+        "nation": "Japan"
+    },
+    "3539384016": {
+        "name": "PJSS720_I56_1944",
+        "species": "Submarine",
+        "tier": null,
+        "nation": "Japan"
+    },
+    "3434526416": {
+        "name": "PJSS820_BA_I56",
+        "species": "Submarine",
+        "tier": null,
+        "nation": "Japan"
+    },
+    "3559143120": {
+        "name": "PJSX701_Support",
+        "species": "Auxiliary",
+        "tier": null,
+        "nation": "Japan"
+    },
+    "3558094544": {
+        "name": "PJSX702_Support",
+        "species": "Auxiliary",
+        "tier": null,
+        "nation": "Japan"
+    },
+    "4185896400": {
+        "name": "PRSA104_Komsomolets",
+        "species": "AirCarrier",
+        "tier": null,
+        "nation": "Russia"
+    },
+    "4183799248": {
+        "name": "PRSA106_Serov",
+        "species": "AirCarrier",
+        "tier": null,
+        "nation": "Russia"
+    },
+    "4181702096": {
+        "name": "PRSA108_Pobeda",
+        "species": "AirCarrier",
+        "tier": null,
+        "nation": "Russia"
+    },
+    "4179604944": {
+        "name": "PRSA110_Admiral_Nakhimov",
+        "species": "AirCarrier",
+        "tier": null,
+        "nation": "Russia"
+    },
+    "3762271696": {
+        "name": "PRSA508_Chkalov",
+        "species": "AirCarrier",
+        "tier": null,
+        "nation": "Russia"
+    },
+    "3667899856": {
+        "name": "PRSA598_Black_Chkalov",
+        "species": "AirCarrier",
+        "tier": null,
+        "nation": "Russia"
+    },
+    "3256858064": {
+        "name": "PRSA990_Admiral_Orlov",
+        "species": "AirCarrier",
+        "tier": null,
+        "nation": "Russia"
+    },
+    "4293866960": {
+        "name": "PRSB001_Nikolay_I",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Russia"
+    },
+    "4186912208": {
+        "name": "PRSB103_Knyaz_Suvorov",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Russia"
+    },
+    "4185863632": {
+        "name": "PRSB104_Gangut",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Russia"
+    },
+    "4184815056": {
+        "name": "PRSB105_Pyotr_Velikiy",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Russia"
+    },
+    "4183766480": {
+        "name": "PRSB106_Izmail",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Russia"
+    },
+    "4182717904": {
+        "name": "PRSB107_Sinop",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Russia"
+    },
+    "4181669328": {
+        "name": "PRSB108_Vladivostok",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Russia"
+    },
+    "4180620752": {
+        "name": "PRSB109_Sovetsky_Soyuz",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Russia"
+    },
+    "4179572176": {
+        "name": "PRSB110_Sovetskaya_Rossiya",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Russia"
+    },
+    "4178523600": {
+        "name": "PRSB111_Admiral_Ushakov",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Russia"
+    },
+    "3765384656": {
+        "name": "PRSB505_Oktyabrskaya_Revolutsiya",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Russia"
+    },
+    "3762238928": {
+        "name": "PRSB508_Poltava",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Russia"
+    },
+    "3761190352": {
+        "name": "PRSB509_Navarin",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Russia"
+    },
+    "3760141776": {
+        "name": "PRSB510_Slava",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Russia"
+    },
+    "3753850320": {
+        "name": "PRSB516_Novorossiysk",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Russia"
+    },
+    "3751753168": {
+        "name": "PRSB518_Lenin",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Russia"
+    },
+    "3741267408": {
+        "name": "PRSB528_Borodino",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Russia"
+    },
+    "3730781648": {
+        "name": "PRSB538_V_I_Lenin",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Russia"
+    },
+    "3551475152": {
+        "name": "PRSB709_AZUR_Sov_Russia",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Russia"
+    },
+    "3550426576": {
+        "name": "PRSB710_Sibir",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Russia"
+    },
+    "3543086544": {
+        "name": "PRSB717_Arkhangelsk",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Russia"
+    },
+    "3540989392": {
+        "name": "PRSB719_Zarya_Svobody",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Russia"
+    },
+    "3437180368": {
+        "name": "PRSB818_Borodino_TE",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Russia"
+    },
+    "3436131792": {
+        "name": "PRSB819_BA_Zarya_Svobody",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Russia"
+    },
+    "3341759952": {
+        "name": "PRSB909_East_Navarin",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Russia"
+    },
+    "4293834192": {
+        "name": "PRSC001_Avrora_1917",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Russia"
+    },
+    "4292785616": {
+        "name": "PRSC002_Diana_1905",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Russia"
+    },
+    "4291737040": {
+        "name": "PRSC003_Murmansk_1944",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Russia"
+    },
+    "4284397008": {
+        "name": "PRSC010_Diana_1905_Asus",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Russia"
+    },
+    "4188976592": {
+        "name": "PRSC101_Orlan",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Russia"
+    },
+    "4187928016": {
+        "name": "PRSC102_Novik",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Russia"
+    },
+    "4186879440": {
+        "name": "PRSC103_Bogatyr",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Russia"
+    },
+    "4185830864": {
+        "name": "PRSC104_Svetlana",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Russia"
+    },
+    "4184782288": {
+        "name": "PRSC105_Kirov",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Russia"
+    },
+    "4183733712": {
+        "name": "PRSC106_Pr_94_Budeny",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Russia"
+    },
+    "4182685136": {
+        "name": "PRSC107_Schors",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Russia"
+    },
+    "4181636560": {
+        "name": "PRSC108_Pr_68_Chapaev",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Russia"
+    },
+    "4180587984": {
+        "name": "PRSC109_Dmitry_Donskoy",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Russia"
+    },
+    "4179539408": {
+        "name": "PRSC110_Pr_66_Moskva",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Russia"
+    },
+    "4178490832": {
+        "name": "PRSC111_Novosibirsk",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Russia"
+    },
+    "4076778960": {
+        "name": "PRSC208_Tallin",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Russia"
+    },
+    "4075730384": {
+        "name": "PRSC209_Riga",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Russia"
+    },
+    "4074681808": {
+        "name": "PRSC210_Pr_84_Alexander_Nevsky",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Russia"
+    },
+    "4069438928": {
+        "name": "PRSC215_Kotovsky",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Russia"
+    },
+    "3969824208": {
+        "name": "PRSC310_Petropavlovsk",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Russia"
+    },
+    "3767449040": {
+        "name": "PRSC503_Oleg",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Russia"
+    },
+    "3765351888": {
+        "name": "PRSC505_KrasniKrym",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Russia"
+    },
+    "3764303312": {
+        "name": "PRSC506_Molotov_1943",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Russia"
+    },
+    "3762206160": {
+        "name": "PRSC508_Kutuzov_1952",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Russia"
+    },
+    "3761157584": {
+        "name": "PRSC509_Kronshtadt",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Russia"
+    },
+    "3760109008": {
+        "name": "PRSC510_Stalingrad",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Russia"
+    },
+    "3756963280": {
+        "name": "PRSC513_Varyag",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Russia"
+    },
+    "3754866128": {
+        "name": "PRSC515_Mikoyan",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Russia"
+    },
+    "3751720400": {
+        "name": "PRSC518_Lazo",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Russia"
+    },
+    "3749623248": {
+        "name": "PRSC520_Stalingrad",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Russia"
+    },
+    "3746477520": {
+        "name": "PRSC523_AZUR_Avrora",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Russia"
+    },
+    "3744380368": {
+        "name": "PRSC525_Kirov",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Russia"
+    },
+    "3741234640": {
+        "name": "PRSC528_Ochakov",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Russia"
+    },
+    "3739137488": {
+        "name": "PRSC530_Black_Smolensk",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Russia"
+    },
+    "3730748880": {
+        "name": "PRSC538_Petr_Bagration",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Russia"
+    },
+    "3720263120": {
+        "name": "PRSC548_Bagration",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Russia"
+    },
+    "3709777360": {
+        "name": "PRSC558_Dmitry_Pozharsky",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Russia"
+    },
+    "3699291600": {
+        "name": "PRSC568_Black_Lazo",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Russia"
+    },
+    "3659445712": {
+        "name": "PRSC606_Admiral_Makarov",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Russia"
+    },
+    "3655251408": {
+        "name": "PRSC610_Smolensk",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Russia"
+    },
+    "3551442384": {
+        "name": "PRSC709_Vyazma",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Russia"
+    },
+    "3550393808": {
+        "name": "PRSC710_Sevastopol",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Russia"
+    },
+    "3540956624": {
+        "name": "PRSC719_Kozma_Minin",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Russia"
+    },
+    "3445536208": {
+        "name": "PRSC810_Komissar",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Russia"
+    },
+    "3437147600": {
+        "name": "PRSC818_Cyber_Dmitry_Pozharsky",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Russia"
+    },
+    "3340678608": {
+        "name": "PRSC910_Pr_66_Moskva",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Russia"
+    },
+    "3330192848": {
+        "name": "PRSC920_PostApoc_Petropavlovsk",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Russia"
+    },
+    "3267278288": {
+        "name": "PRSC980_Vladimir_Monomakh",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Russia"
+    },
+    "3256792528": {
+        "name": "PRSC990_Petrozavodsk",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Russia"
+    },
+    "3247355344": {
+        "name": "PRSC999_Seal",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Russia"
+    },
+    "4293801424": {
+        "name": "PRSD001_Gremyashchy_1942",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Russia"
+    },
+    "4187895248": {
+        "name": "PRSD102_SM_Storojevoy",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Russia"
+    },
+    "4186846672": {
+        "name": "PRSD103_Derzky",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Russia"
+    },
+    "4185798096": {
+        "name": "PRSD104_Izyaslav",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Russia"
+    },
+    "4184749520": {
+        "name": "PRSD105_Pr_7_Gnevny",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Russia"
+    },
+    "4183700944": {
+        "name": "PRSD106_Pr_30_Ognevoy",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Russia"
+    },
+    "4182652368": {
+        "name": "PRSD107_Pr_35_Udaloy",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Russia"
+    },
+    "4181603792": {
+        "name": "PRSD108_Pr_20i_Tashkent",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Russia"
+    },
+    "4180555216": {
+        "name": "PRSD109_Pr_48_Kiev",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Russia"
+    },
+    "4179506640": {
+        "name": "PRSD110_Pr_24_Khabarovsk",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Russia"
+    },
+    "4178458064": {
+        "name": "PRSD111_Zorky",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Russia"
+    },
+    "4079891920": {
+        "name": "PRSD205_Podvoisky_pr_1929",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Russia"
+    },
+    "4078843344": {
+        "name": "PRSD206_Pr_7",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Russia"
+    },
+    "4077794768": {
+        "name": "PRSD207_Minsk",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Russia"
+    },
+    "4076746192": {
+        "name": "PRSD208_Pr_30",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Russia"
+    },
+    "4074649040": {
+        "name": "PRSD210_Grozovoy_pr_40N",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Russia"
+    },
+    "3971888592": {
+        "name": "PRSD308_Pr_48",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Russia"
+    },
+    "3865982416": {
+        "name": "PRSD409_Pr_20i_Tashkent",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Russia"
+    },
+    "3864933840": {
+        "name": "PRSD410_Delny",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Russia"
+    },
+    "3765319120": {
+        "name": "PRSD505_Okhotnik_1917",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Russia"
+    },
+    "3763221968": {
+        "name": "PRSD507_Leningrad_1944",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Russia"
+    },
+    "3752736208": {
+        "name": "PRSD517_Tashkent_1939",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Russia"
+    },
+    "3551409616": {
+        "name": "PRSD709_Pr_41_Neustrashimy",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Russia"
+    },
+    "3541972432": {
+        "name": "PRSD718_Provorny",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Russia"
+    },
+    "3445503440": {
+        "name": "PRSD810_R_10",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Russia"
+    },
+    "3341694416": {
+        "name": "PRSD909_Black_Neustrashimy",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Russia"
+    },
+    "3340645840": {
+        "name": "PRSD910_Grozovoy_pr_40N",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Russia"
+    },
+    "3331208656": {
+        "name": "PRSD919_Azur_Tashkent",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Russia"
+    },
+    "4183209424": {
+        "name": "PRSS106_S_1",
+        "species": "Submarine",
+        "tier": null,
+        "nation": "Russia"
+    },
+    "4181112272": {
+        "name": "PRSS108_L20",
+        "species": "Submarine",
+        "tier": null,
+        "nation": "Russia"
+    },
+    "4179015120": {
+        "name": "PRSS110_K_type",
+        "species": "Submarine",
+        "tier": null,
+        "nation": "Russia"
+    },
+    "3761681872": {
+        "name": "PRSS508_S_189",
+        "species": "Submarine",
+        "tier": null,
+        "nation": "Russia"
+    },
+    "3246831056": {
+        "name": "PRSS999_Tst_sub",
+        "species": "Submarine",
+        "tier": null,
+        "nation": "Russia"
+    },
+    "3540989360": {
+        "name": "PSSB719_Victoria",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Spain"
+    },
+    "4188976560": {
+        "name": "PSSC101_Jupiter",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Spain"
+    },
+    "4187927984": {
+        "name": "PSSC102_Mendez_Nunez",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Spain"
+    },
+    "4186879408": {
+        "name": "PSSC103_Navarra",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Spain"
+    },
+    "4185830832": {
+        "name": "PSSC104_Almirante_Cervera",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Spain"
+    },
+    "4184782256": {
+        "name": "PSSC105_Galicia",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Spain"
+    },
+    "4183733680": {
+        "name": "PSSC106_Baleares",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Spain"
+    },
+    "4182685104": {
+        "name": "PSSC107_Asturias",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Spain"
+    },
+    "4181636528": {
+        "name": "PSSC108_Cataluna",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Spain"
+    },
+    "4180587952": {
+        "name": "PSSC109_Andalucia",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Spain"
+    },
+    "4179539376": {
+        "name": "PSSC110_Castilla",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Spain"
+    },
+    "3764303280": {
+        "name": "PSSC506_Canarias",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Spain"
+    },
+    "3762206128": {
+        "name": "PSSC508_Numancia",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Spain"
+    },
+    "3540956592": {
+        "name": "PSSC719_Almirante_Oquendo",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Spain"
+    },
+    "3760076208": {
+        "name": "PSSD510_Alvaro_de_Bazan",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Spain"
+    },
+    "3763287408": {
+        "name": "PUSB507_Yukon",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Commonwealth"
+    },
+    "3550426480": {
+        "name": "PUSB710_Irresistible",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Commonwealth"
+    },
+    "4293834096": {
+        "name": "PUSC001_Sutlej",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Commonwealth"
+    },
+    "4284396912": {
+        "name": "PUSC010_Cerberus",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Commonwealth"
+    },
+    "4282299760": {
+        "name": "PUSC012_Port_Jackson",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Commonwealth"
+    },
+    "4281251184": {
+        "name": "PUSC013_Caradoc",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Commonwealth"
+    },
+    "4280202608": {
+        "name": "PUSC014_Dunedin",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Commonwealth"
+    },
+    "4279154032": {
+        "name": "PUSC015_Delhi",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Commonwealth"
+    },
+    "4278105456": {
+        "name": "PUSC016_Hobart",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Commonwealth"
+    },
+    "4277056880": {
+        "name": "PUSC017_Uganda",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Commonwealth"
+    },
+    "4276008304": {
+        "name": "PUSC018_Auckland",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Commonwealth"
+    },
+    "4274959728": {
+        "name": "PUSC019_Encounter",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Commonwealth"
+    },
+    "3764303216": {
+        "name": "PUSC506_Perth_1942",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Commonwealth"
+    },
+    "3761157488": {
+        "name": "PUSC509_Hector",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Commonwealth"
+    },
+    "3760108912": {
+        "name": "PUSC510_Brisbane",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Commonwealth"
+    },
+    "3753817456": {
+        "name": "PUSC516_Mysore",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Commonwealth"
+    },
+    "3550393712": {
+        "name": "PUSC710_Pioneer",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Commonwealth"
+    },
+    "3543053680": {
+        "name": "PUSC717_Gambia",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Commonwealth"
+    },
+    "3445536112": {
+        "name": "PUSC810_Black_Brisbane",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Commonwealth"
+    },
+    "3249452400": {
+        "name": "PUSC997_Gambra",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Commonwealth"
+    },
+    "3767416176": {
+        "name": "PUSD503_Vampire",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Commonwealth"
+    },
+    "3763221872": {
+        "name": "PUSD507_Haida",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Commonwealth"
+    },
+    "3760076144": {
+        "name": "PUSD510_Vampire_2",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Commonwealth"
+    },
+    "3752736112": {
+        "name": "PUSD517_Huron",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Commonwealth"
+    },
+    "3550459216": {
+        "name": "PVSA710_Independencia",
+        "species": "AirCarrier",
+        "tier": null,
+        "nation": "Pan_America"
+    },
+    "4284429648": {
+        "name": "PVSB010_Libertad",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Pan_America"
+    },
+    "4276041040": {
+        "name": "PVSB018_Ipiranga",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Pan_America"
+    },
+    "4274992464": {
+        "name": "PVSB019_Los_Andes",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Pan_America"
+    },
+    "3765384528": {
+        "name": "PVSB505_Rio_de_Janeiro",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Pan_America"
+    },
+    "3762238800": {
+        "name": "PVSB508_Atlantico",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Pan_America"
+    },
+    "3550426448": {
+        "name": "PVSB710_Sete_de_Setembro",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Pan_America"
+    },
+    "3540989264": {
+        "name": "PVSB719_Valparaiso",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Pan_America"
+    },
+    "3256825168": {
+        "name": "PVSB990_Comodoro",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Pan_America"
+    },
+    "3247387984": {
+        "name": "PVSB999_Cordillera",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Pan_America"
+    },
+    "4188976464": {
+        "name": "PVSC101_Hercules",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Pan_America"
+    },
+    "4187927888": {
+        "name": "PVSC102_Almirante_Barroso",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Pan_America"
+    },
+    "4186879312": {
+        "name": "PVSC103_Vicente_Guerrero",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Pan_America"
+    },
+    "4185830736": {
+        "name": "PVSC104_Cordoba",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Pan_America"
+    },
+    "4184782160": {
+        "name": "PVSC105_La_Argentina",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Pan_America"
+    },
+    "4183733584": {
+        "name": "PVSC106_Almirante_Cochrane",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Pan_America"
+    },
+    "4182685008": {
+        "name": "PVSC107_Coronel_Bolognesi",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Pan_America"
+    },
+    "4181636432": {
+        "name": "PVSC108_Ignacio_Allende",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Pan_America"
+    },
+    "4180587856": {
+        "name": "PVSC109_Santander",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Pan_America"
+    },
+    "4179539280": {
+        "name": "PVSC110_San_Martin",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Pan_America"
+    },
+    "3768497488": {
+        "name": "PVSC502_Almirante_Abreu",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Pan_America"
+    },
+    "3763254608": {
+        "name": "PVSC507_Nueve_de_Julio_1951",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Pan_America"
+    },
+    "3762206032": {
+        "name": "PVSC508_Almirante_Grau",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Pan_America"
+    },
+    "3552490832": {
+        "name": "PVSC708_Comandante_Aguirre",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Pan_America"
+    },
+    "3764270416": {
+        "name": "PVSD506_Jurua",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Pan_America"
+    },
+    "3550360912": {
+        "name": "PVSD710_La_Pampa",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Pan_America"
+    },
+    "4284429616": {
+        "name": "PWSB010_Thor",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Europe"
+    },
+    "4280235312": {
+        "name": "PWSB014_Yavuz_Sultan_Selim",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Europe"
+    },
+    "4279186736": {
+        "name": "PWSB015_Tegetthoff",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Europe"
+    },
+    "4278138160": {
+        "name": "PWSB016_Laudon",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Europe"
+    },
+    "4277089584": {
+        "name": "PWSB017_Chios",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Europe"
+    },
+    "4276041008": {
+        "name": "PWSB018_Enigheten",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Europe"
+    },
+    "4274992432": {
+        "name": "PWSB019_Gustav_den_Store",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Europe"
+    },
+    "3766433072": {
+        "name": "PWSB504_Viribus_Unitis",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Europe"
+    },
+    "3761190192": {
+        "name": "PWSB509_Karl_XIV_Johan",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Europe"
+    },
+    "3553572144": {
+        "name": "PWSB707_Lugdunum",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Europe"
+    },
+    "3542037808": {
+        "name": "PWSB718_Turgut_Reis",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Europe"
+    },
+    "3540989232": {
+        "name": "PWSB719_Niord",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Europe"
+    },
+    "3341759792": {
+        "name": "PWSB909_Black_Karl_XIV_Johan",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Europe"
+    },
+    "4188976432": {
+        "name": "PWSC101_Gryf",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Europe"
+    },
+    "3764303152": {
+        "name": "PWSC506_Elli",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Europe"
+    },
+    "3550393648": {
+        "name": "PWSC710_Svea",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Europe"
+    },
+    "3542005040": {
+        "name": "PWSC718_Regele_Carol_I",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Europe"
+    },
+    "4187895088": {
+        "name": "PWSD102_Tatra",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Europe"
+    },
+    "4186846512": {
+        "name": "PWSD103_Romulus",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Europe"
+    },
+    "4185797936": {
+        "name": "PWSD104_Klas_Horn",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Europe"
+    },
+    "4184749360": {
+        "name": "PWSD105_Visby",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Europe"
+    },
+    "4183700784": {
+        "name": "PWSD106_Vasteras",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Europe"
+    },
+    "4182652208": {
+        "name": "PWSD107_Skane",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Europe"
+    },
+    "4181603632": {
+        "name": "PWSD108_Oland",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Europe"
+    },
+    "4180555056": {
+        "name": "PWSD109_Ostergotland",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Europe"
+    },
+    "4179506480": {
+        "name": "PWSD110_Halland",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Europe"
+    },
+    "4178457904": {
+        "name": "PWSD111_Dalarna",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Europe"
+    },
+    "4079891760": {
+        "name": "PWSD205_Muavenet",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Europe"
+    },
+    "4078843184": {
+        "name": "PWSD206_Stord",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Europe"
+    },
+    "4077794608": {
+        "name": "PWSD207_Grom",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Europe"
+    },
+    "4076746032": {
+        "name": "PWSD208_Split",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Europe"
+    },
+    "4075697456": {
+        "name": "PWSD209_Lambros_Katsonis",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Europe"
+    },
+    "4074648880": {
+        "name": "PWSD210_Gdansk",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Europe"
+    },
+    "3769513264": {
+        "name": "PWSD501_Blyskawica",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Europe"
+    },
+    "3762173232": {
+        "name": "PWSD508_Orkan",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Europe"
+    },
+    "3761124656": {
+        "name": "PWSD509_Velos",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Europe"
+    },
+    "3760076080": {
+        "name": "PWSD510_Friesland",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Europe"
+    },
+    "3750638896": {
+        "name": "PWSD519_Jager",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Europe"
+    },
+    "3655218480": {
+        "name": "PWSD610_Smaland",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Europe"
+    },
+    "3555603760": {
+        "name": "PWSD705_Kalmar",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Europe"
+    },
+    "3552458032": {
+        "name": "PWSD708_Blyskawica_1944",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Europe"
+    },
+    "3550360880": {
+        "name": "PWSD710_Ragnar",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Europe"
+    },
+    "3543020848": {
+        "name": "PWSD717_Stord_1943",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Europe"
+    },
+    "3540923696": {
+        "name": "PWSD719_Blyskawica_1952",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Europe"
+    },
+    "3343791408": {
+        "name": "PWSD907_Pirate_Grom",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Europe"
+    },
+    "3340645680": {
+        "name": "PWSD910_Lappland",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Europe"
+    },
+    "3330159920": {
+        "name": "PWSD920_PostApoc_Smaland",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Europe"
+    },
+    "3256759600": {
+        "name": "PWSD990_Sodermanland",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Europe"
+    },
+    "4293899536": {
+        "name": "PXSA001_Invisible_Air_Enemy_1",
+        "species": "AirCarrier",
+        "tier": null,
+        "nation": "Events"
+    },
+    "4292850960": {
+        "name": "PXSA002_Invisible_Air_Ally_1",
+        "species": "AirCarrier",
+        "tier": null,
+        "nation": "Events"
+    },
+    "4291802384": {
+        "name": "PXSA003_Lexington_1944_H2017",
+        "species": "AirCarrier",
+        "tier": null,
+        "nation": "Events"
+    },
+    "4290753808": {
+        "name": "PXSA004_Zuikaku_1944_H2017",
+        "species": "AirCarrier",
+        "tier": null,
+        "nation": "Events"
+    },
+    "4289705232": {
+        "name": "PXSA005_Hellcarrier",
+        "species": "AirCarrier",
+        "tier": null,
+        "nation": "Events"
+    },
+    "4286559504": {
+        "name": "PXSA008_Starfleet_Enterprise",
+        "species": "AirCarrier",
+        "tier": null,
+        "nation": "Events"
+    },
+    "4284462352": {
+        "name": "PXSA010_Midway_modern",
+        "species": "AirCarrier",
+        "tier": null,
+        "nation": "Events"
+    },
+    "3448747280": {
+        "name": "PXSA807_Ranger",
+        "species": "AirCarrier",
+        "tier": null,
+        "nation": "Events"
+    },
+    "4293866768": {
+        "name": "PXSB001_Mr_Hyde",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Events"
+    },
+    "4292818192": {
+        "name": "PXSB002_Rasputin",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Events"
+    },
+    "4291769616": {
+        "name": "PXSB003_Zeekasa",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Events"
+    },
+    "4290721040": {
+        "name": "PXSB004_Tirpiz_1942_H2017",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Events"
+    },
+    "4289672464": {
+        "name": "PXSB005_Bismarck_H2017",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Events"
+    },
+    "4288623888": {
+        "name": "PXSB006_Paris",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Events"
+    },
+    "4287575312": {
+        "name": "PXSB007_Alldestroyer",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Events"
+    },
+    "4286526736": {
+        "name": "PXSB008_North_Carolina_H2018",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Events"
+    },
+    "4285478160": {
+        "name": "PXSB009_Yamato_H2019",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Events"
+    },
+    "4284429584": {
+        "name": "PXSB010_France_H2019",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Events"
+    },
+    "4283381008": {
+        "name": "PXSB011_Montana_H2019",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Events"
+    },
+    "4279186704": {
+        "name": "PXSB015_Crab_Battleship",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Events"
+    },
+    "4278138128": {
+        "name": "PXSB016_France_Borg_V1",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Events"
+    },
+    "4277089552": {
+        "name": "PXSB017_France_Borg_V2",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Events"
+    },
+    "4266603792": {
+        "name": "PXSB027_Gneisenau_Vulkans",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Events"
+    },
+    "4263458064": {
+        "name": "PXSB030_Yamato_BorgBoss",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Events"
+    },
+    "4239340816": {
+        "name": "PXSB053_Aegir_modern",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Events"
+    },
+    "4238292240": {
+        "name": "PXSB054_Yoshino_modern",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Events"
+    },
+    "4237243664": {
+        "name": "PXSB055_Michelangelo_modern",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Events"
+    },
+    "4236195088": {
+        "name": "PXSB056_Michelangelo_modern2",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Events"
+    },
+    "4189009168": {
+        "name": "PXSB101_Amagi_H2020",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Events"
+    },
+    "4186912016": {
+        "name": "PXSB103_France_H2020",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Events"
+    },
+    "3766433040": {
+        "name": "PXSB504_Battleship_Duck_FA2023",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Events"
+    },
+    "3764335888": {
+        "name": "PXSB506_Battleship_Duck_Two_FA2023",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Events"
+    },
+    "4293834000": {
+        "name": "PXSC001_Dr_Frankenship",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Events"
+    },
+    "4292785424": {
+        "name": "PXSC002_Charles_Martel_H2017",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Events"
+    },
+    "4291736848": {
+        "name": "PXSC003_Pr_68_Chapaev_H2017",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Events"
+    },
+    "4290688272": {
+        "name": "PXSC004_Galaxy",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Events"
+    },
+    "4289639696": {
+        "name": "PXSC005_Zaya",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Events"
+    },
+    "4288591120": {
+        "name": "PXSC006_Norma",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Events"
+    },
+    "4287542544": {
+        "name": "PXSC007_Aurora",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Events"
+    },
+    "4285445392": {
+        "name": "PXSC009_Mogami_H2018",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Events"
+    },
+    "4284396816": {
+        "name": "PXSC010_Hinden_Apr2019",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Events"
+    },
+    "4283348240": {
+        "name": "PXSC011_Alaska_H2019",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Events"
+    },
+    "4282299664": {
+        "name": "PXSC012_Hindenburg_H2019",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Events"
+    },
+    "4281251088": {
+        "name": "PXSC013_Henri_H2019",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Events"
+    },
+    "4278105360": {
+        "name": "PXSC016_Monster_Cruiser",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Events"
+    },
+    "4266571024": {
+        "name": "PXSC027_Fiji_Klingons",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Events"
+    },
+    "4242453776": {
+        "name": "PXSC050_Austin_modern",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Events"
+    },
+    "4241405200": {
+        "name": "PXSC051_Dalian_modern",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Events"
+    },
+    "4240356624": {
+        "name": "PXSC052_Ignacio_Allende_modern",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Events"
+    },
+    "4235113744": {
+        "name": "PXSC057_Ignacio_Allende_modern2",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Events"
+    },
+    "4188976400": {
+        "name": "PXSC101_Hindenburg_H2020",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Events"
+    },
+    "4187927824": {
+        "name": "PXSC102_Smolensk_H2020",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Events"
+    },
+    "4168004880": {
+        "name": "PXSC121_Des_Moines_Borg_V1",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Events"
+    },
+    "4166956304": {
+        "name": "PXSC122_Des_Moines_Borg_V2",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Events"
+    },
+    "4165907728": {
+        "name": "PXSC123_Salem_Startrek",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Events"
+    },
+    "3769546000": {
+        "name": "PXSC501_Cruiser_Duck_FA2023",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Events"
+    },
+    "3768497424": {
+        "name": "PXSC502_Cruiser_Duck_Two_FA2023",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Events"
+    },
+    "3767448848": {
+        "name": "PXSC503_SEABATTLE_CAP",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Events"
+    },
+    "4293801232": {
+        "name": "PXSD001_VanHellsink",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Events"
+    },
+    "4292752656": {
+        "name": "PXSD002_Benson_1945_H2017",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Events"
+    },
+    "4291704080": {
+        "name": "PXSD003_Kagero_H2017",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Events"
+    },
+    "4290655504": {
+        "name": "PXSD004_FlyFire",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Events"
+    },
+    "4289606928": {
+        "name": "PXSD005_Blue_Aster",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Events"
+    },
+    "4287509776": {
+        "name": "PXSD007_Scnellboot_S38",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Events"
+    },
+    "4286461200": {
+        "name": "PXSD008_Z_23_H2018",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Events"
+    },
+    "4285412624": {
+        "name": "PXSD009_Kiev_H2018",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Events"
+    },
+    "4284364048": {
+        "name": "PXSD010_Blue_Aster2",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Events"
+    },
+    "4283315472": {
+        "name": "PXSD011_FlyFire2",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Events"
+    },
+    "4282266896": {
+        "name": "PXSD012_Shimakaze2",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Events"
+    },
+    "4281218320": {
+        "name": "PXSD013_Z_52_PA",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Events"
+    },
+    "4280169744": {
+        "name": "PXSD014_Hsiang_Yang_PA",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Events"
+    },
+    "4279121168": {
+        "name": "PXSD015_Grozovoy_PA",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Events"
+    },
+    "4278072592": {
+        "name": "PXSD016_Shimakaze_PA",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Events"
+    },
+    "4277024016": {
+        "name": "PXSD017_Gearing_PA",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Events"
+    },
+    "4275975440": {
+        "name": "PXSD018_Harugumo_PA",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Events"
+    },
+    "4274926864": {
+        "name": "PXSD019_Daring_PA",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Events"
+    },
+    "4273878288": {
+        "name": "PXSD020_Khabarovsk_PA",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Events"
+    },
+    "4272829712": {
+        "name": "PXSD021_Kleber_PA",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Events"
+    },
+    "4271781136": {
+        "name": "PXSD022_Shimakaze_H2019",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Events"
+    },
+    "4270732560": {
+        "name": "PXSD023_Gearing_H2019",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Events"
+    },
+    "4269683984": {
+        "name": "PXSD024_Khabarovsk_H2019",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Events"
+    },
+    "4268635408": {
+        "name": "PXSD025_Berserk",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Events"
+    },
+    "4266538256": {
+        "name": "PXSD027_Akatsuki_Romulans",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Events"
+    },
+    "4262343952": {
+        "name": "PXSD031_Gearing_Borg_V1",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Events"
+    },
+    "4261295376": {
+        "name": "PXSD032_Gearing_Borg_V2",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Events"
+    },
+    "4251858192": {
+        "name": "PXSD041_Marceau_modern",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Events"
+    },
+    "4250809616": {
+        "name": "PXSD042_Grozovoy_modern",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Events"
+    },
+    "4249761040": {
+        "name": "PXSD043_Jutland_modern",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Events"
+    },
+    "4236129552": {
+        "name": "PXSD056_Jutland_modern2",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Events"
+    },
+    "4187895056": {
+        "name": "PXSD102_Akizuki_H2020",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Events"
+    },
+    "4186846480": {
+        "name": "PXSD103_Oland_H2020",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Events"
+    },
+    "3768464656": {
+        "name": "PXSD502_Destroyer_Duck_FA2023",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Events"
+    },
+    "3767416080": {
+        "name": "PXSD503_Destroyer_Duck_Two_FA2023",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Events"
+    },
+    "4182160656": {
+        "name": "PXSS107_Mina_Hurray",
+        "species": "Submarine",
+        "tier": null,
+        "nation": "Events"
+    },
+    "4077303056": {
+        "name": "PXSS207_Lazarus_Centurio",
+        "species": "Submarine",
+        "tier": null,
+        "nation": "Events"
+    },
+    "3972445456": {
+        "name": "PXSS307_Cyrus_Herrero",
+        "species": "Submarine",
+        "tier": null,
+        "nation": "Events"
+    },
+    "3867587856": {
+        "name": "PXSS407_Dr_Frankenship",
+        "species": "Submarine",
+        "tier": null,
+        "nation": "Events"
+    },
+    "3762730256": {
+        "name": "PXSS507_Klaus_V_Teslau",
+        "species": "Submarine",
+        "tier": null,
+        "nation": "Events"
+    },
+    "4293145872": {
+        "name": "PXSX001_Transylvania",
+        "species": "Auxiliary",
+        "tier": null,
+        "nation": "Events"
+    },
+    "4277417232": {
+        "name": "PXSX016_Goliath",
+        "species": "Auxiliary",
+        "tier": null,
+        "nation": "Events"
+    },
+    "4276368656": {
+        "name": "PXSX017_Caboteur_de_35_metres",
+        "species": "Auxiliary",
+        "tier": null,
+        "nation": "Events"
+    },
+    "4270077200": {
+        "name": "PXSX023_HMS_SS_Lorina",
+        "species": "Auxiliary",
+        "tier": null,
+        "nation": "Events"
+    },
+    "4269028624": {
+        "name": "PXSX024_Aronia",
+        "species": "Auxiliary",
+        "tier": null,
+        "nation": "Events"
+    },
+    "4267980048": {
+        "name": "PXSX025_Medway_Queen",
+        "species": "Auxiliary",
+        "tier": null,
+        "nation": "Events"
+    },
+    "4266931472": {
+        "name": "PXSX026_Canterbury",
+        "species": "Auxiliary",
+        "tier": null,
+        "nation": "Events"
+    },
+    "4259591440": {
+        "name": "PXSX033_Dyck",
+        "species": "Auxiliary",
+        "tier": null,
+        "nation": "Events"
+    },
+    "4258542864": {
+        "name": "PXSX034_John_Cattling",
+        "species": "Auxiliary",
+        "tier": null,
+        "nation": "Events"
+    },
+    "4257494288": {
+        "name": "PXSX035_Landing_Ship_1",
+        "species": "Auxiliary",
+        "tier": null,
+        "nation": "Events"
+    },
+    "4255397136": {
+        "name": "PXSX037_Daihatsu",
+        "species": "Auxiliary",
+        "tier": null,
+        "nation": "Events"
+    },
+    "4253299984": {
+        "name": "PXSX039_LST_325",
+        "species": "Auxiliary",
+        "tier": null,
+        "nation": "Events"
+    },
+    "4252251408": {
+        "name": "PXSX040_Escort_8",
+        "species": "Auxiliary",
+        "tier": null,
+        "nation": "Events"
+    },
+    "4249105680": {
+        "name": "PXSX043_Medway_Queen_War",
+        "species": "Auxiliary",
+        "tier": null,
+        "nation": "Events"
+    },
+    "4248057104": {
+        "name": "PXSX044_Cimarron",
+        "species": "Auxiliary",
+        "tier": null,
+        "nation": "Events"
+    },
+    "4247008528": {
+        "name": "PXSX045_Liberty",
+        "species": "Auxiliary",
+        "tier": null,
+        "nation": "Events"
+    },
+    "4244911376": {
+        "name": "PXSX047_Golo",
+        "species": "Auxiliary",
+        "tier": null,
+        "nation": "Events"
+    },
+    "3768857872": {
+        "name": "PXSX501_LIBERTY_ARM",
+        "species": "Auxiliary",
+        "tier": null,
+        "nation": "Events"
+    },
+    "3767809296": {
+        "name": "PXSX502_LIBERTY_ARM_CONVOY",
+        "species": "Auxiliary",
+        "tier": null,
+        "nation": "Events"
+    },
+    "3515102480": {
+        "name": "PXSX743_Hall_Medway_Queen",
+        "species": "Auxiliary",
+        "tier": null,
+        "nation": "Events"
+    },
+    "3439605008": {
+        "name": "PXSX815_Bogue_Clone",
+        "species": "Auxiliary",
+        "tier": null,
+        "nation": "Events"
+    },
+    "3762271440": {
+        "name": "PZSA508_Saipan_Sanzang",
+        "species": "AirCarrier",
+        "tier": null,
+        "nation": "Pan_Asia"
+    },
+    "3761190096": {
+        "name": "PZSB509_Izumo_Bajie",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Pan_Asia"
+    },
+    "3750704336": {
+        "name": "PZSB519_Alsace_Wujing",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Pan_Asia"
+    },
+    "3740218576": {
+        "name": "PZSB529_Sun_Yat_Sen",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Pan_Asia"
+    },
+    "3729732816": {
+        "name": "PZSB539_Louchuan",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Pan_Asia"
+    },
+    "3553572048": {
+        "name": "PZSB707_Teng_She",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Pan_Asia"
+    },
+    "3552523472": {
+        "name": "PZSB708_Xuan_Wu",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Pan_Asia"
+    },
+    "3551474896": {
+        "name": "PZSB709_Taihang",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Pan_Asia"
+    },
+    "3540989136": {
+        "name": "PZSB719_Yimeng",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Pan_Asia"
+    },
+    "3341759696": {
+        "name": "PZSB909_Xuan_Ming",
+        "species": "Battleship",
+        "tier": null,
+        "nation": "Pan_Asia"
+    },
+    "4188976336": {
+        "name": "PZSC101_Cheng_An",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Pan_Asia"
+    },
+    "4184782032": {
+        "name": "PZSC105_Chung_King",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Pan_Asia"
+    },
+    "4183733456": {
+        "name": "PZSC106_Rahmat",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Pan_Asia"
+    },
+    "4182684880": {
+        "name": "PZSC107_Chumphon",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Pan_Asia"
+    },
+    "4181636304": {
+        "name": "PZSC108_Harbin",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Pan_Asia"
+    },
+    "4180587728": {
+        "name": "PZSC109_Sejong",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Pan_Asia"
+    },
+    "4179539152": {
+        "name": "PZSC110_Jinan",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Pan_Asia"
+    },
+    "3767448784": {
+        "name": "PZSC503_Ning_Hai",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Pan_Asia"
+    },
+    "3764303056": {
+        "name": "PZSC506_Huang_he",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Pan_Asia"
+    },
+    "3762205904": {
+        "name": "PZSC508_Irian",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Pan_Asia"
+    },
+    "3761157328": {
+        "name": "PZSC509_Dalian",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Pan_Asia"
+    },
+    "3751720144": {
+        "name": "PZSC518_Martel_Wukong",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Pan_Asia"
+    },
+    "3740185808": {
+        "name": "PZSC529_Mengchong",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Pan_Asia"
+    },
+    "3550393552": {
+        "name": "PZSC710_Incheon",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Pan_Asia"
+    },
+    "3543053520": {
+        "name": "PZSC717_Lanzhou",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Pan_Asia"
+    },
+    "3542004944": {
+        "name": "PZSC718_Narai",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Pan_Asia"
+    },
+    "3540956368": {
+        "name": "PZSC719_Tianjin",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Pan_Asia"
+    },
+    "3539907792": {
+        "name": "PZSC720_Zhuge_Liang",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Pan_Asia"
+    },
+    "3530470608": {
+        "name": "PZSC729_Baotou",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Pan_Asia"
+    },
+    "3342775504": {
+        "name": "PZSC908_Pinata_Irian",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Pan_Asia"
+    },
+    "3332289744": {
+        "name": "PZSC918_Azur_Harbin",
+        "species": "Cruiser",
+        "tier": null,
+        "nation": "Pan_Asia"
+    },
+    "4187894992": {
+        "name": "PZSD102_Long_Jiang",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Pan_Asia"
+    },
+    "4186846416": {
+        "name": "PZSD103_Phra_Ruang",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Pan_Asia"
+    },
+    "4185797840": {
+        "name": "PZSD104_Shen_Yang",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Pan_Asia"
+    },
+    "4184749264": {
+        "name": "PZSD105_Jian_Wei",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Pan_Asia"
+    },
+    "4183700688": {
+        "name": "PZSD106_Fu_Shun",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Pan_Asia"
+    },
+    "4182652112": {
+        "name": "PZSD107_Gadjah_Mada",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Pan_Asia"
+    },
+    "4181603536": {
+        "name": "PZSD108_Hsien_Yang",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Pan_Asia"
+    },
+    "4180554960": {
+        "name": "PZSD109_Chung_Mu",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Pan_Asia"
+    },
+    "4179506384": {
+        "name": "PZSD110_Hsiang_Yang",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Pan_Asia"
+    },
+    "4178457808": {
+        "name": "PZSD111_Kunming",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Pan_Asia"
+    },
+    "4076745936": {
+        "name": "PZSD208_Siliwangi_1959",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Pan_Asia"
+    },
+    "3764270288": {
+        "name": "PZSD506_Anshan",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Pan_Asia"
+    },
+    "3762173136": {
+        "name": "PZSD508_LoYang",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Pan_Asia"
+    },
+    "3760075984": {
+        "name": "PZSD510_Lushun",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Pan_Asia"
+    },
+    "3751687376": {
+        "name": "PZSD518_Fen_Yang",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Pan_Asia"
+    },
+    "3667801296": {
+        "name": "PZSD598_Black_LoYang",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Pan_Asia"
+    },
+    "3552457936": {
+        "name": "PZSD708_Zhu_Que",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Pan_Asia"
+    },
+    "3541972176": {
+        "name": "PZSD718_Warhammer_Ork",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Pan_Asia"
+    },
+    "3540923600": {
+        "name": "PZSD719_Nanning",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Pan_Asia"
+    },
+    "3340645584": {
+        "name": "PZSD910_Black_Lushun",
+        "species": "Destroyer",
+        "tier": null,
+        "nation": "Pan_Asia"
+    },
+    "3543577808": {
+        "name": "PZSS716_Xing_Zhong_Guo_14",
+        "species": "Submarine",
+        "tier": null,
+        "nation": "Pan_Asia"
+    }
+}
